@@ -1,0 +1,7167 @@
+{
+  "Special element": [
+    {
+      "element": "Time",
+      "recipes": [
+        "Have 100 elements unlocked, including the starting elements."
+      ]
+    }
+  ],
+  "Starting elements": [
+    {
+      "element": "Air",
+      "recipes": [
+        "Fire + Mist"
+      ]
+    },
+    {
+      "element": "Earth",
+      "recipes": [
+        "Available from the start"
+      ]
+    },
+    {
+      "element": "Fire",
+      "recipes": [
+        "Fire + Alcohol",
+        "Fire + Coal"
+      ]
+    },
+    {
+      "element": "Water",
+      "recipes": [
+        "Heat + Ice",
+        "Heat + Snow"
+      ]
+    }
+  ],
+  "Tier 1 elements": [
+    {
+      "element": "Dust",
+      "recipes": [
+        "Earth + Air",
+        "Soil + Air",
+        "Land + Air"
+      ]
+    },
+    {
+      "element": "Energy",
+      "recipes": [
+        "Fire + Fire",
+        "Fire + Science",
+        "Fire + Atmosphere",
+        "Heat + Science"
+      ]
+    },
+    {
+      "element": "Land",
+      "recipes": [
+        "Soil + Soil",
+        "Soil + Big",
+        "Continent + Small",
+        "Earth + Earth",
+        "Earth + Stone"
+      ]
+    },
+    {
+      "element": "Lava",
+      "recipes": [
+        "Earth + Fire",
+        "Earth + Heat",
+        "Earth + Liquid"
+      ]
+    },
+    {
+      "element": "Mist",
+      "recipes": [
+        "Air + Water",
+        "Air + Steam",
+        "Air + Rain"
+      ]
+    },
+    {
+      "element": "Mud",
+      "recipes": [
+        "Water + Earth",
+        "Water + Soil"
+      ]
+    },
+    {
+      "element": "Pressure",
+      "recipes": [
+        "Air + Air",
+        "Air + Atmosphere",
+        "Atmosphere + Atmosphere",
+        "Geyser + Science",
+        "Ocean + Ocean"
+      ]
+    },
+    {
+      "element": "Puddle",
+      "recipes": [
+        "Water + Water",
+        "Pond + Small"
+      ]
+    },
+    {
+      "element": "Smoke",
+      "recipes": [
+        "Earth + Gas",
+        "Campfire + Water",
+        "Campfire + Time",
+        "Campfire + Storm",
+        "Fire + Plant",
+        "Fire + Grass",
+        "Fire + Tree",
+        "Fire + Wood",
+        "Fire + Air"
+      ]
+    },
+    {
+      "element": "Steam",
+      "recipes": [
+        "Water + Heat",
+        "Water + Fire",
+        "Water + Lava",
+        "Water + Gas"
+      ]
+    }
+  ],
+  "Tier 10 elements": [
+    {
+      "element": "Alpaca",
+      "recipes": [
+        "Sheep + Mountain",
+        "Sheep + Mountain range",
+        "Sheep + Mountain goat"
+      ]
+    },
+    {
+      "element": "Angler",
+      "recipes": [
+        "Human + Fishing rod",
+        "Sailor + Fishing rod"
+      ]
+    },
+    {
+      "element": "Ant",
+      "recipes": [
+        "Grass + Animal",
+        "Grass + Spider"
+      ]
+    },
+    {
+      "element": "Battery",
+      "recipes": [
+        "Container + Electricity",
+        "Container + Energy",
+        "Electricity + Mineral",
+        "Electricity + Ore"
+      ]
+    },
+    {
+      "element": "Bee",
+      "recipes": [
+        "Animal + Flower",
+        "Animal + Garden"
+      ]
+    },
+    {
+      "element": "Bicycle",
+      "recipes": [
+        "Wheel + Wheel",
+        "Wheel + Chain",
+        "Wheel + Machine"
+      ]
+    },
+    {
+      "element": "Big",
+      "recipes": [
+        "Universe + Philosophy",
+        "Galaxy + Philosophy",
+        "Galaxy cluster + Philosophy",
+        "Solar system + Philosophy",
+        "Sun + Philosophy",
+        "Planet + Philosophy"
+      ]
+    },
+    {
+      "element": "Bonsai tree",
+      "recipes": [
+        "Tree + Pottery",
+        "Tree + Scissors",
+        "Tree + Wire",
+        "Tree + Small"
+      ]
+    },
+    {
+      "element": "Cannon",
+      "recipes": [
+        "Gunpowder + Pirate ship",
+        "Gunpowder + Castle",
+        "Gun + Pirate ship",
+        "Gun + Castle"
+      ]
+    },
+    {
+      "element": "Car",
+      "recipes": [
+        "Wheel + Metal",
+        "Wheel + Steel",
+        "Wheel + Bicycle",
+        "Wheel + Motorcycle",
+        "Bicycle + Bicycle",
+        "Motorcycle + Motorcycle",
+        "Motorcycle + Machine",
+        "Wagon + Combustion engine",
+        "Cart + Combustion engine"
+      ]
+    },
+    {
+      "element": "Cauldron",
+      "recipes": [
+        "Witch + Metal",
+        "Witch + Steel",
+        "Witch + Fireplace",
+        "Witch + Campfire",
+        "Pottery + Metal",
+        "Pottery + Steel"
+      ]
+    },
+    {
+      "element": "Caviar",
+      "recipes": [
+        "Roe + Salt",
+        "Roe + Cook"
+      ]
+    },
+    {
+      "element": "Chicken coop",
+      "recipes": [
+        "Chicken + House",
+        "Chicken + Wall",
+        "Chicken + Barn",
+        "Chicken + Container",
+        "Cockatrice + House",
+        "Cockatrice + Barn",
+        "Cockatrice + Container"
+      ]
+    },
+    {
+      "element": "Chicken soup",
+      "recipes": [
+        "Chicken + Water",
+        "Chicken + Liquid",
+        "Chicken wing + Water",
+        "Chicken wing + Liquid"
+      ]
+    },
+    {
+      "element": "Chicken wing",
+      "recipes": [
+        "Chicken + Bone",
+        "Chicken + Bbq"
+      ]
+    },
+    {
+      "element": "Christmas tree",
+      "recipes": [
+        "Tree + Light bulb",
+        "Tree + Star",
+        "Tree + Candle",
+        "Tree + Light",
+        "Tree + Gift"
+      ]
+    },
+    {
+      "element": "Coconut",
+      "recipes": [
+        "Palm + Fruit",
+        "Palm + Nuts",
+        "Palm + Vegetable",
+        "Palm + Meat",
+        "Beach + Fruit",
+        "Beach + Vegetable"
+      ]
+    },
+    {
+      "element": "Combustion engine",
+      "recipes": [
+        "Petroleum + Machine",
+        "Petroleum + Wheel",
+        "Petroleum + Steam engine",
+        "Explosion + Machine",
+        "Explosion + Steam engine"
+      ]
+    },
+    {
+      "element": "Computer mouse",
+      "recipes": [
+        "Computer + Mouse",
+        "Computer + Animal"
+      ]
+    },
+    {
+      "element": "Container",
+      "recipes": [
+        "Philosophy + Safe",
+        "Philosophy + Pottery",
+        "Philosophy + House",
+        "Philosophy + Box",
+        "Philosophy + Bottle",
+        "Philosophy + Bucket"
+      ]
+    },
+    {
+      "element": "Cook",
+      "recipes": [
+        "Human + Fruit",
+        "Human + Vegetable",
+        "Human + Campfire",
+        "Human + Nuts"
+      ]
+    },
+    {
+      "element": "Coral",
+      "recipes": [
+        "Tree + Sea",
+        "Tree + Ocean",
+        "Fossil + Sea",
+        "Fossil + Ocean",
+        "Bone + Sea",
+        "Bone + Ocean"
+      ]
+    },
+    {
+      "element": "Cyclist",
+      "recipes": [
+        "Human + Wheel",
+        "Human + Bicycle"
+      ]
+    },
+    {
+      "element": "Diamond",
+      "recipes": [
+        "Coal + Pressure"
+      ]
+    },
+    {
+      "element": "Doctor",
+      "recipes": [
+        "Human + Hospital",
+        "Human + Stethoscope"
+      ]
+    },
+    {
+      "element": "Doge",
+      "recipes": [
+        "Dog + Internet",
+        "Dog + Computer"
+      ]
+    },
+    {
+      "element": "Doghouse",
+      "recipes": [
+        "Dog + House",
+        "Dog + Wall",
+        "Dog + Container",
+        "Husky + House",
+        "Husky + Wall",
+        "Husky + Container"
+      ]
+    },
+    {
+      "element": "Drone",
+      "recipes": [
+        "Robot + Airplane",
+        "Robot + Helicopter",
+        "Robot + Paper airplane",
+        "Robot + Seaplane"
+      ]
+    },
+    {
+      "element": "Dry ice",
+      "recipes": [
+        "Carbon dioxide + Cold",
+        "Carbon dioxide + Ice"
+      ]
+    },
+    {
+      "element": "Duckling",
+      "recipes": [
+        "Egg + Duck"
+      ]
+    },
+    {
+      "element": "Engineer",
+      "recipes": [
+        "Human + Machine",
+        "Human + Steam engine"
+      ]
+    },
+    {
+      "element": "Fairy tale",
+      "recipes": [
+        "Story + Monarch",
+        "Story + Castle",
+        "Story + Knight",
+        "Story + Dragon",
+        "Story + Unicorn",
+        "Story + Faerie",
+        "Story + Elf"
+      ]
+    },
+    {
+      "element": "Faun",
+      "recipes": [
+        "Human + Goat",
+        "Human + Mountain goat",
+        "Legend + Goat",
+        "Legend + Mountain goat",
+        "Wizard + Goat",
+        "Wizard + Mountain goat",
+        "Magic + Goat",
+        "Magic + Mountain goat"
+      ]
+    },
+    {
+      "element": "Fire extinguisher",
+      "recipes": [
+        "Carbon dioxide + Fire",
+        "Carbon dioxide + Pressure",
+        "Carbon dioxide + Metal",
+        "Carbon dioxide + Steel",
+        "Carbon dioxide + Boiler"
+      ]
+    },
+    {
+      "element": "Forest",
+      "recipes": [
+        "Tree + Tree",
+        "Tree + Plant",
+        "Tree + Land",
+        "Tree + Container"
+      ]
+    },
+    {
+      "element": "Fox",
+      "recipes": [
+        "Chicken + Animal",
+        "Chicken + Wolf",
+        "Chicken + Dog",
+        "Chicken coop + Animal",
+        "Chicken coop + Wolf",
+        "Chicken coop + Dog"
+      ]
+    },
+    {
+      "element": "Fruit",
+      "recipes": [
+        "Flower + Time",
+        "Flower + Rain",
+        "Flower + Water",
+        "Flower + Tree",
+        "Tree + Farmer",
+        "Farmer + Orchard"
+      ]
+    },
+    {
+      "element": "Gardener",
+      "recipes": [
+        "Human + Garden",
+        "Farmer + Garden"
+      ]
+    },
+    {
+      "element": "Gnome",
+      "recipes": [
+        "Garden + Statue",
+        "Garden + Legend",
+        "Garden + Story",
+        "Garden + Fairy tale"
+      ]
+    },
+    {
+      "element": "Golem",
+      "recipes": [
+        "Clay + Story",
+        "Clay + Legend",
+        "Story + Statue",
+        "Statue + Life",
+        "Statue + Legend"
+      ]
+    },
+    {
+      "element": "Hail",
+      "recipes": [
+        "Ice + Rain",
+        "Ice + Cloud",
+        "Ice + Storm",
+        "Ice + Wind",
+        "Ice + Steam",
+        "Ice + Sky"
+      ]
+    },
+    {
+      "element": "Harp",
+      "recipes": [
+        "Angel + Music",
+        "Angel + Musician",
+        "Angel + Wire",
+        "Wire + Music"
+      ]
+    },
+    {
+      "element": "Hay",
+      "recipes": [
+        "Grass + Scythe",
+        "Grass + Farmer",
+        "Grass + Sun",
+        "Grass + Grass",
+        "Grass + Barn",
+        "Grass + Farm",
+        "Grass + Pitchfork",
+        "Pitchfork + Barn",
+        "Pitchfork + Farm",
+        "Pitchfork + Farmer"
+      ]
+    },
+    {
+      "element": "Helicopter",
+      "recipes": [
+        "Airplane + Blade",
+        "Airplane + Windmill",
+        "Airplane + Wind turbine",
+        "Seaplane + Blade",
+        "Seaplane + Windmill",
+        "Seaplane + Wind turbine"
+      ]
+    },
+    {
+      "element": "Husky",
+      "recipes": [
+        "Dog + Snow",
+        "Dog + Ice",
+        "Dog + Antarctica",
+        "Dog + Arctic",
+        "Dog + Blizzard",
+        "Dog + Glacier"
+      ]
+    },
+    {
+      "element": "Internet",
+      "recipes": [
+        "Computer + Computer",
+        "Computer + Wire",
+        "Computer + Web",
+        "Computer + Net"
+      ]
+    },
+    {
+      "element": "Jack-o'-lantern",
+      "recipes": [
+        "Pumpkin + Fire",
+        "Pumpkin + Candle",
+        "Pumpkin + Light",
+        "Pumpkin + Night",
+        "Pumpkin + Ghost",
+        "Pumpkin + Skeleton",
+        "Vegetable + Ghost",
+        "Vegetable + Skeleton",
+        "Vegetable + Night"
+      ]
+    },
+    {
+      "element": "Juice",
+      "recipes": [
+        "Fruit + Pressure",
+        "Fruit + Earth",
+        "Fruit + Stone",
+        "Fruit + Rock",
+        "Fruit + Explosion",
+        "Fruit + Water",
+        "Vegetable + Pressure",
+        "Vegetable + Stone",
+        "Vegetable + Rock",
+        "Vegetable + Explosion",
+        "Vegetable + Water"
+      ]
+    },
+    {
+      "element": "Kaiju",
+      "recipes": [
+        "Dinosaur + City",
+        "Dinosaur + Skyscraper",
+        "Dinosaur + Legend",
+        "Dinosaur + Story",
+        "Monster + City",
+        "Monster + Skyscraper"
+      ]
+    },
+    {
+      "element": "Lasso",
+      "recipes": [
+        "Rope + Cow",
+        "Rope + Horse",
+        "Rope + Pig",
+        "Rope + Wild boar",
+        "Rope + Sheep",
+        "Rope + Goat"
+      ]
+    },
+    {
+      "element": "Lawn",
+      "recipes": [
+        "Grass + House",
+        "Grass + Container",
+        "Grass + Lawn mower",
+        "Field + Lawn mower"
+      ]
+    },
+    {
+      "element": "Lawn mower",
+      "recipes": [
+        "Grass + Tool",
+        "Grass + Machine",
+        "Scythe + Electricity",
+        "Scythe + Helicopter",
+        "Scythe + Windmill",
+        "Scythe + Tool",
+        "Scythe + Machine",
+        "Scythe + Motion",
+        "Helicopter + Field"
+      ]
+    },
+    {
+      "element": "Leaf",
+      "recipes": [
+        "Tree + Wind",
+        "Flower + Wind",
+        "Orchard + Wind",
+        "Forest + Wind"
+      ]
+    },
+    {
+      "element": "Legend",
+      "recipes": [
+        "Story + Time",
+        "Story + Story",
+        "Story + Big",
+        "Story + Fairy tale",
+        "Fairy tale + Time",
+        "Fairy tale + Big"
+      ]
+    },
+    {
+      "element": "Lumberjack",
+      "recipes": [
+        "Human + Axe",
+        "Human + Chainsaw",
+        "Human + Wood",
+        "Human + Tree"
+      ]
+    },
+    {
+      "element": "Manatee",
+      "recipes": [
+        "Cow + Sea",
+        "Cow + Ocean",
+        "Cow + Fish",
+        "Cow + Lake",
+        "Cow + River"
+      ]
+    },
+    {
+      "element": "Milk",
+      "recipes": [
+        "Cow + Farmer",
+        "Cow + Tool",
+        "Cow + Water",
+        "Cow + Liquid",
+        "Goat + Farmer",
+        "Goat + Tool",
+        "Goat + Water",
+        "Goat + Liquid"
+      ]
+    },
+    {
+      "element": "Minotaur",
+      "recipes": [
+        "Human + Cow",
+        "Cow + Werewolf",
+        "Cow + Story",
+        "Cow + Legend",
+        "Cow + Monster"
+      ]
+    },
+    {
+      "element": "Mold",
+      "recipes": [
+        "Bread + Time",
+        "Bread + Bacteria",
+        "Fruit + Time",
+        "Fruit + Bacteria",
+        "Vegetable + Time",
+        "Vegetable + Bacteria"
+      ]
+    },
+    {
+      "element": "Monkey",
+      "recipes": [
+        "Animal + Tree"
+      ]
+    },
+    {
+      "element": "Mountain goat",
+      "recipes": [
+        "Goat + Mountain",
+        "Goat + Mountain range"
+      ]
+    },
+    {
+      "element": "Narwhal",
+      "recipes": [
+        "Unicorn + Fish",
+        "Unicorn + Sea",
+        "Unicorn + Ocean",
+        "Unicorn + Water",
+        "Unicorn + Shark",
+        "Unicorn + Swordfish",
+        "Unicorn + Flying fish"
+      ]
+    },
+    {
+      "element": "Nessie",
+      "recipes": [
+        "Lake + Legend",
+        "Lake + Story",
+        "Dinosaur + Legend",
+        "Dinosaur + Story"
+      ]
+    },
+    {
+      "element": "Net",
+      "recipes": [
+        "Angler + Rope",
+        "Fishing rod + Rope",
+        "Fish + Rope",
+        "Swordfish + Rope",
+        "Flying fish + Rope"
+      ]
+    },
+    {
+      "element": "Nuts",
+      "recipes": [
+        "Tree + Farmer",
+        "Tree + Field",
+        "Tree + Domestication"
+      ]
+    },
+    {
+      "element": "Oil",
+      "recipes": [
+        "Sunflower + Pressure",
+        "Sunflower + Stone",
+        "Sunflower + Wheel",
+        "Sunflower + Windmill"
+      ]
+    },
+    {
+      "element": "Ore",
+      "recipes": [
+        "Hammer + Boulder",
+        "Hammer + Earth",
+        "Hammer + Rock",
+        "Hammer + Stone",
+        "Hammer + Hill",
+        "Hammer + Mountain"
+      ]
+    },
+    {
+      "element": "Paleontologist",
+      "recipes": [
+        "Human + Dinosaur",
+        "Human + Fossil",
+        "Science + Dinosaur",
+        "Science + Fossil"
+      ]
+    },
+    {
+      "element": "Palm",
+      "recipes": [
+        "Tree + Beach",
+        "Tree + Island",
+        "Tree + Sand"
+      ]
+    },
+    {
+      "element": "Parachute",
+      "recipes": [
+        "Pilot + Fabric",
+        "Pilot + Umbrella",
+        "Airplane + Fabric",
+        "Airplane + Umbrella",
+        "Umbrella + Sky",
+        "Umbrella + Atmosphere"
+      ]
+    },
+    {
+      "element": "Parrot",
+      "recipes": [
+        "Bird + Pirate",
+        "Bird + Pirate ship",
+        "Pigeon + Pirate",
+        "Pigeon + Pirate ship"
+      ]
+    },
+    {
+      "element": "Peat",
+      "recipes": [
+        "Swamp + Plant",
+        "Swamp + Time",
+        "Swamp + Pressure",
+        "Time + Grass"
+      ]
+    },
+    {
+      "element": "Perfume",
+      "recipes": [
+        "Flower + Water",
+        "Flower + Steam",
+        "Flower + Alcohol",
+        "Rose + Water",
+        "Rose + Steam",
+        "Rose + Alcohol",
+        "Sunflower + Water",
+        "Sunflower + Steam",
+        "Sunflower + Alcohol"
+      ]
+    },
+    {
+      "element": "Petroleum",
+      "recipes": [
+        "Fossil + Pressure",
+        "Fossil + Time",
+        "Fossil + Liquid",
+        "Fossil + Water"
+      ]
+    },
+    {
+      "element": "Pilot",
+      "recipes": [
+        "Human + Airplane",
+        "Human + Seaplane"
+      ]
+    },
+    {
+      "element": "Pipe",
+      "recipes": [
+        "Tobacco + Wood",
+        "Tobacco + Tool"
+      ]
+    },
+    {
+      "element": "Pirate ship",
+      "recipes": [
+        "Sailboat + Pirate",
+        "Boat + Pirate",
+        "Steam engine + Pirate",
+        "Pirate + Container",
+        "Pirate + House"
+      ]
+    },
+    {
+      "element": "Polar bear",
+      "recipes": [
+        "Animal + Ice",
+        "Animal + Arctic"
+      ]
+    },
+    {
+      "element": "Potato",
+      "recipes": [
+        "Earth + Vegetable"
+      ]
+    },
+    {
+      "element": "Pterodactyl",
+      "recipes": [
+        "Dinosaur + Air",
+        "Dinosaur + Sky",
+        "Dinosaur + Bird",
+        "Dinosaur + Eagle",
+        "Dinosaur + Vulture",
+        "Dinosaur + Airplane"
+      ]
+    },
+    {
+      "element": "Pumpkin",
+      "recipes": [
+        "Vegetable + Field",
+        "Vegetable + Farmer",
+        "Vegetable + Jack-o'-lantern",
+        "Plant + Jack-o'-lantern"
+      ]
+    },
+    {
+      "element": "Quicksilver",
+      "recipes": [
+        "Metal + Liquid"
+      ]
+    },
+    {
+      "element": "Rabbit",
+      "recipes": [
+        "Animal + Carrot",
+        "Rabbit + Rabbit"
+      ]
+    },
+    {
+      "element": "Rivulet",
+      "recipes": [
+        "Stream + Small",
+        "Puddle + Motion"
+      ]
+    },
+    {
+      "element": "Sand castle",
+      "recipes": [
+        "Castle + Sand",
+        "Castle + Beach",
+        "Castle + Desert",
+        "Castle + Dune"
+      ]
+    },
+    {
+      "element": "Sap",
+      "recipes": [
+        "Tree + Blade"
+      ]
+    },
+    {
+      "element": "Saturn",
+      "recipes": [
+        "Ring + Planet",
+        "Jupiter + Small"
+      ]
+    },
+    {
+      "element": "Scalpel",
+      "recipes": [
+        "Blade + Doctor",
+        "Blade + Hospital",
+        "Blade + Ambulance",
+        "Sword + Doctor",
+        "Sword + Hospital",
+        "Sword + Ambulance"
+      ]
+    },
+    {
+      "element": "Scythe",
+      "recipes": [
+        "Blade + Grass",
+        "Blade + Wheat",
+        "Sword + Grass",
+        "Sword + Wheat",
+        "Axe + Grass",
+        "Axe + Wheat"
+      ]
+    },
+    {
+      "element": "Seal",
+      "recipes": [
+        "Dog + Sea",
+        "Dog + Ocean",
+        "Dog + Arctic",
+        "Dog + Water",
+        "Dog + Lake"
+      ]
+    },
+    {
+      "element": "Seaplane",
+      "recipes": [
+        "Airplane + Water",
+        "Airplane + Sea",
+        "Airplane + Ocean",
+        "Airplane + Lake"
+      ]
+    },
+    {
+      "element": "Seed",
+      "recipes": [
+        "Pollen + Plant",
+        "Pollen + Bee",
+        "Time + Flower"
+      ]
+    },
+    {
+      "element": "Skateboard",
+      "recipes": [
+        "Wheel + Snowboard",
+        "Wheel + Skier",
+        "Wheel + Ski goggles"
+      ]
+    },
+    {
+      "element": "Small",
+      "recipes": [
+        "Philosophy + Bacteria",
+        "Philosophy + Oxygen",
+        "Philosophy + Carbon dioxide",
+        "Philosophy + Ozone",
+        "Philosophy + Pebble",
+        "Philosophy + Rivulet",
+        "Philosophy + Ant",
+        "Philosophy + Spider",
+        "Philosophy + Bee",
+        "Philosophy + Scorpion",
+        "Philosophy + Confetti",
+        "Philosophy + Seahorse"
+      ]
+    },
+    {
+      "element": "Snowboarder",
+      "recipes": [
+        "Human + Snowboard"
+      ]
+    },
+    {
+      "element": "Soda",
+      "recipes": [
+        "Carbon dioxide + Water",
+        "Carbon dioxide + Juice",
+        "Carbon dioxide + Tea"
+      ]
+    },
+    {
+      "element": "Sphinx",
+      "recipes": [
+        "Statue + Lion",
+        "Statue + Desert",
+        "Statue + Pyramid",
+        "Lion + Stone"
+      ]
+    },
+    {
+      "element": "Statue",
+      "recipes": [
+        "Stone + Hammer",
+        "Boulder + Hammer",
+        "Medusa + Human",
+        "Medusa + Hacker",
+        "Medusa + Engineer",
+        "Medusa + Lumberjack",
+        "Medusa + Pilot",
+        "Medusa + Sailor",
+        "Medusa + Farmer",
+        "Medusa + Firefighter",
+        "Medusa + Surfer",
+        "Medusa + Astronaut",
+        "Medusa + Butcher",
+        "Medusa + Doctor",
+        "Medusa + Baker",
+        "Medusa + Drunk",
+        "Medusa + Mirror",
+        "Troll + Sun",
+        "Troll + Dawn",
+        "Cockatrice + Human",
+        "Cockatrice + Hacker",
+        "Cockatrice + Engineer",
+        "Cockatrice + Lumberjack",
+        "Cockatrice + Pilot",
+        "Cockatrice + Sailor",
+        "Cockatrice + Farmer",
+        "Cockatrice + Firefighter",
+        "Cockatrice + Surfer",
+        "Cockatrice + Astronaut",
+        "Cockatrice + Butcher",
+        "Cockatrice + Doctor",
+        "Cockatrice + Baker",
+        "Cockatrice + Drunk",
+        "Cockatrice + Mirror"
+      ]
+    },
+    {
+      "element": "Steam engine",
+      "recipes": [
+        "Steam + Machine",
+        "Steam + Wheel",
+        "Boiler + Wheel"
+      ]
+    },
+    {
+      "element": "Steel",
+      "recipes": [
+        "Metal + Coal",
+        "Metal + Charcoal",
+        "Metal + Mineral",
+        "Metal + Ash"
+      ]
+    },
+    {
+      "element": "Stream",
+      "recipes": [
+        "Pond + Motion",
+        "Rivulet + Big",
+        "River + Small"
+      ]
+    },
+    {
+      "element": "Sushi",
+      "recipes": [
+        "Fish + Seaweed",
+        "Caviar + Seaweed"
+      ]
+    },
+    {
+      "element": "Swamp",
+      "recipes": [
+        "Mud + Grass",
+        "Mud + Tree",
+        "Tree + Lake",
+        "Algae + Lake",
+        "Algae + Pond",
+        "Reed + Lake",
+        "Reed + Pond",
+        "Reed + Mud"
+      ]
+    },
+    {
+      "element": "The one ring",
+      "recipes": [
+        "Ring + Volcano",
+        "Ring + Magic"
+      ]
+    },
+    {
+      "element": "Thread",
+      "recipes": [
+        "Cotton + Cotton",
+        "Cotton + Tool",
+        "Cotton + Wheel",
+        "Cotton + Machine"
+      ]
+    },
+    {
+      "element": "Treehouse",
+      "recipes": [
+        "Tree + House",
+        "Tree + Wood"
+      ]
+    },
+    {
+      "element": "Trojan horse",
+      "recipes": [
+        "Horse + Wood",
+        "Horse + Machine",
+        "Horse + Statue"
+      ]
+    },
+    {
+      "element": "Tunnel",
+      "recipes": [
+        "Engineer + Mountain",
+        "Engineer + Mountain range",
+        "Engineer + Hill",
+        "Train + Mountain",
+        "Train + Mountain range",
+        "Train + Hill",
+        "Cave + Mountain",
+        "Cave + Mountain range",
+        "Cave + Hill"
+      ]
+    },
+    {
+      "element": "Tyrannosaurus rex",
+      "recipes": [
+        "Dinosaur + Meat",
+        "Dinosaur + Blood",
+        "Dinosaur + Monarch"
+      ]
+    },
+    {
+      "element": "Vase",
+      "recipes": [
+        "Pottery + Plant",
+        "Pottery + Flower",
+        "Pottery + Rose",
+        "Container + Flower",
+        "Container + Rose",
+        "Bottle + Plant",
+        "Bottle + Flower",
+        "Bottle + Rose"
+      ]
+    },
+    {
+      "element": "Water lily",
+      "recipes": [
+        "Flower + Pond",
+        "Flower + Puddle",
+        "Flower + Lake",
+        "Flower + Stream"
+      ]
+    },
+    {
+      "element": "Wheat",
+      "recipes": [
+        "Grass + Farmer",
+        "Grass + Domestication",
+        "Grass + Field"
+      ]
+    },
+    {
+      "element": "Wood",
+      "recipes": [
+        "Tree + Tool",
+        "Tree + Axe",
+        "Tree + Chainsaw",
+        "Tree + Sword",
+        "Tree + Lumberjack",
+        "Forest + Tool",
+        "Forest + Axe",
+        "Forest + Chainsaw",
+        "Forest + Sword",
+        "Forest + Lumberjack",
+        "Tree + Paul bunyan",
+        "Forest + Paul bunyan"
+      ]
+    },
+    {
+      "element": "Woodpecker",
+      "recipes": [
+        "Bird + Wood",
+        "Bird + Tree",
+        "Bird + Forest"
+      ]
+    },
+    {
+      "element": "Wool",
+      "recipes": [
+        "Sheep + Tool",
+        "Sheep + Scissors",
+        "Sheep + Blade"
+      ]
+    },
+    {
+      "element": "Yeti",
+      "recipes": [
+        "Mountain + Story",
+        "Mountain + Legend",
+        "Mountain range + Story",
+        "Mountain range + Legend",
+        "Glacier + Story",
+        "Glacier + Legend",
+        "Antarctica + Story",
+        "Antarctica + Legend",
+        "Monster + Mountain",
+        "Monster + Mountain range",
+        "Monster + Glacier",
+        "Monster + Antarctica"
+      ]
+    },
+    {
+      "element": "Zoo",
+      "recipes": [
+        "Animal + Container",
+        "Animal + Cage"
+      ]
+    }
+  ],
+  "Tier 11 elements": [
+    {
+      "element": "Alcohol",
+      "recipes": [
+        "Time + Juice",
+        "Wheat + Fruit",
+        "Wheat + Juice",
+        "Fruit + Sun"
+      ]
+    },
+    {
+      "element": "Ambulance",
+      "recipes": [
+        "Car + Hospital",
+        "Car + Doctor"
+      ]
+    },
+    {
+      "element": "Ant farm",
+      "recipes": [
+        "Farm + Ant",
+        "Ant + Jar",
+        "Ant + Glass",
+        "Anthill + Farm",
+        "Anthill + Jar"
+      ]
+    },
+    {
+      "element": "Anthill",
+      "recipes": [
+        "Ant + House",
+        "Ant + Container",
+        "Ant + Hill",
+        "Ant + Earth",
+        "Ant + Land",
+        "Ant + Soil"
+      ]
+    },
+    {
+      "element": "Arrow",
+      "recipes": [
+        "Wood + Bullet",
+        "Wood + Bow"
+      ]
+    },
+    {
+      "element": "Aviary",
+      "recipes": [
+        "Big + Birdcage"
+      ]
+    },
+    {
+      "element": "Axe",
+      "recipes": [
+        "Wood + Blade",
+        "Wood + Tool",
+        "Wood + Stone",
+        "Tool + Lumberjack",
+        "Tool + Paul bunyan"
+      ]
+    },
+    {
+      "element": "Banana",
+      "recipes": [
+        "Fruit + Monkey"
+      ]
+    },
+    {
+      "element": "Beehive",
+      "recipes": [
+        "House + Bee",
+        "Tree + Bee",
+        "Forest + Bee",
+        "Wall + Bee",
+        "Wood + Bee",
+        "Container + Bee"
+      ]
+    },
+    {
+      "element": "Beekeeper",
+      "recipes": [
+        "Human + Beehive",
+        "Human + Bee",
+        "Farmer + Beehive",
+        "Farmer + Bee"
+      ]
+    },
+    {
+      "element": "Blood bag",
+      "recipes": [
+        "Blood + Container",
+        "Blood + Sack",
+        "Blood + Bottle"
+      ]
+    },
+    {
+      "element": "Boat",
+      "recipes": [
+        "Wood + Water",
+        "Wood + Sea",
+        "Wood + Ocean",
+        "Wood + Lake",
+        "Wood + River"
+      ]
+    },
+    {
+      "element": "Book",
+      "recipes": [
+        "Newspaper + Newspaper",
+        "Paper + Legend",
+        "Paper + Wood",
+        "Container + Story",
+        "Container + Fairy tale",
+        "Container + Legend",
+        "Container + Idea"
+      ]
+    },
+    {
+      "element": "Bottle",
+      "recipes": [
+        "Container + Milk",
+        "Container + Water",
+        "Container + Coconut milk",
+        "Container + Juice",
+        "Container + Oil",
+        "Container + Alcohol",
+        "Container + Wine",
+        "Container + Beer",
+        "Container + Chocolate milk",
+        "Container + Soda",
+        "Container + Perfume",
+        "Container + Liquid"
+      ]
+    },
+    {
+      "element": "Boulder",
+      "recipes": [
+        "Big + Rock",
+        "Big + Stone",
+        "Small + Hill",
+        "Rock + Stone",
+        "Rock + Rock",
+        "Rock + Earth"
+      ]
+    },
+    {
+      "element": "Bow",
+      "recipes": [
+        "Wood + Rope",
+        "Wood + Wire",
+        "Tool + Elf",
+        "Tool + Cupid"
+      ]
+    },
+    {
+      "element": "Broom",
+      "recipes": [
+        "Wood + Hay",
+        "Tool + Baba yaga"
+      ]
+    },
+    {
+      "element": "Bucket",
+      "recipes": [
+        "Container + Wood",
+        "Container + Yogurt",
+        "Container + Paint",
+        "Bottle + River",
+        "Bottle + Paint",
+        "Chicken wing + Container",
+        "Chicken wing + Box"
+      ]
+    },
+    {
+      "element": "Bus",
+      "recipes": [
+        "Car + Car",
+        "Car + Train",
+        "Car + City",
+        "Car + Big"
+      ]
+    },
+    {
+      "element": "Butter",
+      "recipes": [
+        "Milk + Pressure",
+        "Milk + Energy",
+        "Milk + Motion",
+        "Milk + Tool"
+      ]
+    },
+    {
+      "element": "Butterfly net",
+      "recipes": [
+        "Butterfly + Net",
+        "Bee + Net"
+      ]
+    },
+    {
+      "element": "Campfire",
+      "recipes": [
+        "Fire + Wood"
+      ]
+    },
+    {
+      "element": "Cart",
+      "recipes": [
+        "Wheel + Wood"
+      ]
+    },
+    {
+      "element": "Cashmere",
+      "recipes": [
+        "Mountain goat + Thread",
+        "Mountain goat + Fabric",
+        "Mountain goat + Tool",
+        "Mountain goat + Scissors",
+        "Mountain goat + Wool"
+      ]
+    },
+    {
+      "element": "Cereal",
+      "recipes": [
+        "Wheat + Milk",
+        "Wheat + Chocolate milk",
+        "Wheat + Coconut milk"
+      ]
+    },
+    {
+      "element": "Chainsaw",
+      "recipes": [
+        "Axe + Machine",
+        "Axe + Electricity",
+        "Axe + Motion",
+        "Lumberjack + Machine",
+        "Lumberjack + Electricity"
+      ]
+    },
+    {
+      "element": "Cheese",
+      "recipes": [
+        "Milk + Tool",
+        "Milk + Time",
+        "Milk + Cook",
+        "Milk + Bacteria"
+      ]
+    },
+    {
+      "element": "Christmas stocking",
+      "recipes": [
+        "Fireplace + Wool",
+        "Christmas tree + Wool",
+        "Reindeer + Wool",
+        "Santa + Wool"
+      ]
+    },
+    {
+      "element": "Closet",
+      "recipes": [
+        "Container + Broom",
+        "Container + Toolbox",
+        "Container + Umbrella",
+        "Container + Robot vacuum",
+        "Container + Vacuum cleaner"
+      ]
+    },
+    {
+      "element": "Coconut milk",
+      "recipes": [
+        "Coconut + Milk",
+        "Coconut + Tool",
+        "Coconut + Hammer",
+        "Coconut + Sword",
+        "Coconut + Blade",
+        "Coconut + Axe"
+      ]
+    },
+    {
+      "element": "Coffin",
+      "recipes": [
+        "Wood + Corpse",
+        "Container + Corpse",
+        "Container + Vampire"
+      ]
+    },
+    {
+      "element": "Cutting board",
+      "recipes": [
+        "Wood + Cook"
+      ]
+    },
+    {
+      "element": "Drum",
+      "recipes": [
+        "Wood + Leather",
+        "Wood + Fabric",
+        "Wood + Music"
+      ]
+    },
+    {
+      "element": "Electric car",
+      "recipes": [
+        "Electricity + Car",
+        "Electricity + Wagon",
+        "Car + Wind turbine",
+        "Wagon + Wind turbine",
+        "Solar cell + Car",
+        "Solar cell + Wagon"
+      ]
+    },
+    {
+      "element": "Fabric",
+      "recipes": [
+        "Thread + Machine",
+        "Thread + Tool",
+        "Thread + Wheel"
+      ]
+    },
+    {
+      "element": "Fireplace",
+      "recipes": [
+        "Campfire + House",
+        "Campfire + Brick",
+        "Campfire + Wall",
+        "Campfire + Container",
+        "Wood + Container"
+      ]
+    },
+    {
+      "element": "Firetruck",
+      "recipes": [
+        "Firefighter + Car",
+        "Firefighter + Wagon",
+        "Fire + Car",
+        "Fire + Wagon",
+        "Fire extinguisher + Car",
+        "Fire extinguisher + Wagon"
+      ]
+    },
+    {
+      "element": "Flour",
+      "recipes": [
+        "Wheat + Wheat",
+        "Wheat + Stone",
+        "Wheat + Windmill",
+        "Wheat + Wheel",
+        "Wheat + Rock"
+      ]
+    },
+    {
+      "element": "Flute",
+      "recipes": [
+        "Wood + Wind",
+        "Wood + Air"
+      ]
+    },
+    {
+      "element": "Fountain",
+      "recipes": [
+        "Statue + Water",
+        "Statue + Stream"
+      ]
+    },
+    {
+      "element": "French fries",
+      "recipes": [
+        "Oil + Vegetable",
+        "Oil + Potato",
+        "Fire + Potato"
+      ]
+    },
+    {
+      "element": "Fruit tree",
+      "recipes": [
+        "Fruit + Tree",
+        "Fruit + Plant",
+        "Fruit + Wood"
+      ]
+    },
+    {
+      "element": "Garage",
+      "recipes": [
+        "Car + House",
+        "Car + Container",
+        "Car + Wall",
+        "Car + Barn",
+        "Ambulance + House",
+        "Ambulance + Container",
+        "Ambulance + Wall",
+        "Ambulance + Barn",
+        "Motorcycle + House",
+        "Motorcycle + Container",
+        "Motorcycle + Wall",
+        "Motorcycle + Barn",
+        "Bus + House",
+        "Bus + Container",
+        "Bus + Wall",
+        "Bus + Barn",
+        "Sleigh + House",
+        "Sleigh + Container",
+        "Sleigh + Wall",
+        "Sleigh + Barn",
+        "Electric car + House",
+        "Electric car + Container",
+        "Electric car + Wall",
+        "Electric car + Barn",
+        "Snowmobile + House",
+        "Snowmobile + Container",
+        "Snowmobile + Wall",
+        "Snowmobile + Barn",
+        "Tractor + House",
+        "Tractor + Container",
+        "Tractor + Wall",
+        "Tractor + Barn",
+        "Rv + House",
+        "Rv + Container",
+        "Rv + Wall",
+        "Rv + Barn",
+        "Ice cream truck + House",
+        "Ice cream truck + Container",
+        "Ice cream truck + Wall",
+        "Ice cream truck + Barn"
+      ]
+    },
+    {
+      "element": "Grim reaper",
+      "recipes": [
+        "Human + Scythe",
+        "Corpse + Scythe",
+        "Zombie + Scythe",
+        "Death + Scythe",
+        "Boat + Scythe",
+        "River + Scythe",
+        "Scythe + Deity"
+      ]
+    },
+    {
+      "element": "Gust",
+      "recipes": [
+        "Wind + Small",
+        "Air + Small"
+      ]
+    },
+    {
+      "element": "Hay bale",
+      "recipes": [
+        "Hay + Hay",
+        "Hay + Barn",
+        "Hay + Tractor",
+        "Hay + Machine"
+      ]
+    },
+    {
+      "element": "Hill",
+      "recipes": [
+        "Big + Boulder",
+        "Earth + Boulder",
+        "Stone + Boulder",
+        "Boulder + Boulder",
+        "Mountain + Small"
+      ]
+    },
+    {
+      "element": "Honey",
+      "recipes": [
+        "Bee + Flower",
+        "Bee + Beehive",
+        "Bee + Time",
+        "Bee + Bee",
+        "Beehive + Beekeeper"
+      ]
+    },
+    {
+      "element": "Ice cream",
+      "recipes": [
+        "Milk + Cold",
+        "Milk + Ice",
+        "Milk + Snow"
+      ]
+    },
+    {
+      "element": "Ice sculpture",
+      "recipes": [
+        "Ice + Statue"
+      ]
+    },
+    {
+      "element": "Jam",
+      "recipes": [
+        "Juice + Sugar",
+        "Juice + Fruit",
+        "Juice + Machine",
+        "Fruit + Machine",
+        "Fruit + Heat"
+      ]
+    },
+    {
+      "element": "Knife",
+      "recipes": [
+        "Blade + Cook",
+        "Sword + Cook"
+      ]
+    },
+    {
+      "element": "Laptop",
+      "recipes": [
+        "Computer + Small"
+      ]
+    },
+    {
+      "element": "Little alchemy (element)",
+      "recipes": [
+        "Small + Alchemist"
+      ]
+    },
+    {
+      "element": "Log cabin",
+      "recipes": [
+        "Wood + House"
+      ]
+    },
+    {
+      "element": "Maple syrup",
+      "recipes": [
+        "Sap + Heat",
+        "Sap + Sugar"
+      ]
+    },
+    {
+      "element": "Mayonnaise",
+      "recipes": [
+        "Egg + Oil"
+      ]
+    },
+    {
+      "element": "Moon rover",
+      "recipes": [
+        "Moon + Car",
+        "Moon + Electric car"
+      ]
+    },
+    {
+      "element": "Motorcycle",
+      "recipes": [
+        "Bicycle + Machine",
+        "Bicycle + Metal",
+        "Bicycle + Steel",
+        "Bicycle + Steam engine",
+        "Bicycle + Combustion engine"
+      ]
+    },
+    {
+      "element": "Needle",
+      "recipes": [
+        "Thread + Metal",
+        "Thread + Steel",
+        "Thread + Tool"
+      ]
+    },
+    {
+      "element": "Paper",
+      "recipes": [
+        "Wood + Pressure",
+        "Wood + Water",
+        "Wood + Blender",
+        "Wood + Machine"
+      ]
+    },
+    {
+      "element": "Peanut butter",
+      "recipes": [
+        "Nuts + Butter",
+        "Nuts + Pressure"
+      ]
+    },
+    {
+      "element": "Pebble",
+      "recipes": [
+        "Small + Earth",
+        "Small + Stone",
+        "Small + Rock"
+      ]
+    },
+    {
+      "element": "Pencil",
+      "recipes": [
+        "Wood + Coal",
+        "Wood + Charcoal"
+      ]
+    },
+    {
+      "element": "Penicillin",
+      "recipes": [
+        "Mold + Doctor",
+        "Mold + Science",
+        "Mold + Idea",
+        "Mold + Hospital"
+      ]
+    },
+    {
+      "element": "Pinocchio",
+      "recipes": [
+        "Wood + Life",
+        "Wood + Story",
+        "Golem + Story"
+      ]
+    },
+    {
+      "element": "Pitchfork",
+      "recipes": [
+        "Hay + Tool",
+        "Hay + Metal",
+        "Hay + Steel",
+        "Tool + Demon"
+      ]
+    },
+    {
+      "element": "Popsicle",
+      "recipes": [
+        "Juice + Ice",
+        "Juice + Cold",
+        "Juice + Snow",
+        "Juice + Wood"
+      ]
+    },
+    {
+      "element": "Quicksand",
+      "recipes": [
+        "Sand + Swamp"
+      ]
+    },
+    {
+      "element": "Rainforest",
+      "recipes": [
+        "Rain + Forest"
+      ]
+    },
+    {
+      "element": "Rat",
+      "recipes": [
+        "Animal + Pirate ship",
+        "Animal + Sailboat",
+        "Mouse + Pirate ship",
+        "Mouse + Sailboat",
+        "Mouse + City",
+        "Mouse + Skyscraper",
+        "Mouse + Village",
+        "Mouse + Big"
+      ]
+    },
+    {
+      "element": "Reindeer",
+      "recipes": [
+        "Animal + Santa",
+        "Livestock + Santa",
+        "Animal + Christmas tree",
+        "Livestock + Christmas tree",
+        "Animal + Christmas stocking"
+      ]
+    },
+    {
+      "element": "Restaurant",
+      "recipes": [
+        "House + Cook"
+      ]
+    },
+    {
+      "element": "Roller coaster",
+      "recipes": [
+        "Park + Train",
+        "Park + Car",
+        "Park + Cart",
+        "Park + Wagon"
+      ]
+    },
+    {
+      "element": "Rv",
+      "recipes": [
+        "House + Car",
+        "House + Bus"
+      ]
+    },
+    {
+      "element": "Sack",
+      "recipes": [
+        "Container + Flour",
+        "Container + Salt",
+        "Container + Letter"
+      ]
+    },
+    {
+      "element": "Santa",
+      "recipes": [
+        "Christmas tree + Human",
+        "Christmas tree + Legend",
+        "Christmas tree + Story",
+        "Christmas stocking + Human",
+        "Christmas stocking + Legend",
+        "Christmas stocking + Story"
+      ]
+    },
+    {
+      "element": "Scarecrow",
+      "recipes": [
+        "Hay + Human",
+        "Hay + Statue",
+        "Hay + Golem",
+        "Hay + Sack",
+        "Farm + Statue",
+        "Barn + Statue",
+        "Pumpkin + Sack",
+        "Jack-o'-lantern + Sack"
+      ]
+    },
+    {
+      "element": "Scuba tank",
+      "recipes": [
+        "Container + Air",
+        "Container + Atmosphere",
+        "Container + Oxygen"
+      ]
+    },
+    {
+      "element": "Sewing machine",
+      "recipes": [
+        "Needle + Machine",
+        "Needle + Electricity",
+        "Needle + Robot",
+        "Thread + Machine",
+        "Thread + Electricity",
+        "Thread + Robot"
+      ]
+    },
+    {
+      "element": "Shovel",
+      "recipes": [
+        "Tool + Gardener"
+      ]
+    },
+    {
+      "element": "Silo",
+      "recipes": [
+        "Wheat + Container",
+        "Wheat + House",
+        "Wheat + Barn",
+        "Wheat + Wall",
+        "Wheat + Farm",
+        "Wheat + Safe",
+        "Wheat + Bank"
+      ]
+    },
+    {
+      "element": "Smoothie",
+      "recipes": [
+        "Fruit + Blender",
+        "Fruit + Ice",
+        "Fruit + Cold"
+      ]
+    },
+    {
+      "element": "Snowmobile",
+      "recipes": [
+        "Snow + Motorcycle",
+        "Snow + Car",
+        "Glacier + Motorcycle",
+        "Glacier + Car",
+        "Ice + Motorcycle",
+        "Ice + Car"
+      ]
+    },
+    {
+      "element": "Soap",
+      "recipes": [
+        "Oil + Ash",
+        "Oil + Wax",
+        "Oil + Clay",
+        "Wax + Ash",
+        "Wax + Clay"
+      ]
+    },
+    {
+      "element": "Spider",
+      "recipes": [
+        "Animal + Thread",
+        "Animal + Web",
+        "Animal + Net"
+      ]
+    },
+    {
+      "element": "Squirrel",
+      "recipes": [
+        "Mouse + Tree",
+        "Mouse + Plant",
+        "Mouse + Nuts",
+        "Animal + Nuts"
+      ]
+    },
+    {
+      "element": "Steamboat",
+      "recipes": [
+        "Steam engine + Boat",
+        "Steam engine + Sailboat",
+        "Steam engine + Pirate ship",
+        "Steam engine + Ocean",
+        "Steam engine + Sea"
+      ]
+    },
+    {
+      "element": "Steel wool",
+      "recipes": [
+        "Wool + Steel",
+        "Wool + Metal",
+        "Wool + Wire"
+      ]
+    },
+    {
+      "element": "Sugar",
+      "recipes": [
+        "Fruit + Fire",
+        "Fruit + Energy",
+        "Juice + Fire",
+        "Juice + Energy",
+        "Alcohol + Fire",
+        "Alcohol + Energy",
+        "Beer + Fire",
+        "Beer + Energy",
+        "Wine + Fire",
+        "Wine + Energy"
+      ]
+    },
+    {
+      "element": "Sweater",
+      "recipes": [
+        "Wool + Tool",
+        "Wool + Human"
+      ]
+    },
+    {
+      "element": "Tailor",
+      "recipes": [
+        "Human + Sewing machine",
+        "Human + Needle",
+        "Human + Thread"
+      ]
+    },
+    {
+      "element": "Tank",
+      "recipes": [
+        "Car + Armor",
+        "Car + Gun",
+        "Car + Metal",
+        "Car + Steel"
+      ]
+    },
+    {
+      "element": "Tea",
+      "recipes": [
+        "Leaf + Water",
+        "Leaf + Human",
+        "Leaf + Heat"
+      ]
+    },
+    {
+      "element": "Thermometer",
+      "recipes": [
+        "Quicksilver + Glass",
+        "Quicksilver + Tool",
+        "Quicksilver + Engineer"
+      ]
+    },
+    {
+      "element": "Titanic",
+      "recipes": [
+        "Boat + Iceberg",
+        "Steamboat + Iceberg",
+        "Iceberg + Legend",
+        "Steamboat + Legend"
+      ]
+    },
+    {
+      "element": "Tractor",
+      "recipes": [
+        "Car + Farmer",
+        "Car + Field",
+        "Car + Cow",
+        "Wagon + Farmer",
+        "Wagon + Field",
+        "Wagon + Cow"
+      ]
+    },
+    {
+      "element": "Train",
+      "recipes": [
+        "Steam engine + Metal",
+        "Steam engine + Steel",
+        "Steam engine + Wheel",
+        "Steam engine + Wagon"
+      ]
+    },
+    {
+      "element": "Vault",
+      "recipes": [
+        "Safe + Big"
+      ]
+    },
+    {
+      "element": "Water pipe",
+      "recipes": [
+        "Water + Pipe"
+      ]
+    },
+    {
+      "element": "Witch",
+      "recipes": [
+        "Broom + Wizard",
+        "Broom + Human",
+        "Broom + Legend",
+        "Broom + Story",
+        "Broom + Magic",
+        "Broom + Cauldron",
+        "Cauldron + Story",
+        "Cauldron + Legend"
+      ]
+    },
+    {
+      "element": "Yogurt",
+      "recipes": [
+        "Bacteria + Milk",
+        "Bacteria + Ice cream"
+      ]
+    }
+  ],
+  "Tier 12 elements": [
+    {
+      "element": "Apron",
+      "recipes": [
+        "Fabric + Cook",
+        "Fabric + Baker"
+      ]
+    },
+    {
+      "element": "Armor",
+      "recipes": [
+        "Metal + Fabric",
+        "Steel + Fabric"
+      ]
+    },
+    {
+      "element": "Bandage",
+      "recipes": [
+        "Fabric + Blood",
+        "Fabric + Sword",
+        "Fabric + Blade"
+      ]
+    },
+    {
+      "element": "Batter",
+      "recipes": [
+        "Milk + Flour",
+        "Coconut milk + Flour"
+      ]
+    },
+    {
+      "element": "Bbq",
+      "recipes": [
+        "Campfire + Metal",
+        "Campfire + Steel",
+        "Campfire + Garden",
+        "Campfire + House",
+        "Campfire + Meat"
+      ]
+    },
+    {
+      "element": "Beer",
+      "recipes": [
+        "Alcohol + Wheat"
+      ]
+    },
+    {
+      "element": "Box",
+      "recipes": [
+        "Container + Pizza",
+        "Container + Pencil",
+        "Container + Cereal",
+        "Container + Cookie",
+        "Container + Donut",
+        "Container + Cake",
+        "Container + Crayon"
+      ]
+    },
+    {
+      "element": "Candy cane",
+      "recipes": [
+        "Sugar + Christmas tree",
+        "Sugar + Christmas stocking",
+        "Sugar + Santa",
+        "Sugar + Reindeer"
+      ]
+    },
+    {
+      "element": "Canvas",
+      "recipes": [
+        "Fabric + Paint"
+      ]
+    },
+    {
+      "element": "Caramel",
+      "recipes": [
+        "Sugar + Heat"
+      ]
+    },
+    {
+      "element": "Chocolate",
+      "recipes": [
+        "Sugar + Milk",
+        "Sugar + Oil",
+        "Sugar + Coconut milk",
+        "Sugar + Seed"
+      ]
+    },
+    {
+      "element": "Cigarette",
+      "recipes": [
+        "Tobacco + Paper"
+      ]
+    },
+    {
+      "element": "Confetti",
+      "recipes": [
+        "Paper + Scissors",
+        "Paper + Blade"
+      ]
+    },
+    {
+      "element": "Cookbook",
+      "recipes": [
+        "Recipe + Recipe",
+        "Book + Cook"
+      ]
+    },
+    {
+      "element": "Cotton candy",
+      "recipes": [
+        "Sugar + Air",
+        "Sugar + Thread",
+        "Sugar + Cloud"
+      ]
+    },
+    {
+      "element": "Crayon",
+      "recipes": [
+        "Rainbow + Pencil",
+        "Rainbow + Wax",
+        "Double rainbow! + Pencil",
+        "Double rainbow! + Wax",
+        "Pencil + Paint",
+        "Wax + Paint"
+      ]
+    },
+    {
+      "element": "Cup",
+      "recipes": [
+        "Container + Smoothie",
+        "Container + Tea",
+        "Container + Milk shake",
+        "Bottle + Smoothie",
+        "Bottle + Tea",
+        "Bottle + Milk shake"
+      ]
+    },
+    {
+      "element": "Diver",
+      "recipes": [
+        "Scuba tank + Human",
+        "Scuba tank + Swimmer",
+        "Scuba tank + Sea",
+        "Scuba tank + Ocean",
+        "Scuba tank + Lake"
+      ]
+    },
+    {
+      "element": "Dough",
+      "recipes": [
+        "Flour + Water",
+        "Flour + Puddle",
+        "Flour + Rain"
+      ]
+    },
+    {
+      "element": "Drunk",
+      "recipes": [
+        "Human + Alcohol",
+        "Human + Beer",
+        "Human + Wine"
+      ]
+    },
+    {
+      "element": "Excavator",
+      "recipes": [
+        "Shovel + Big",
+        "Shovel + Car"
+      ]
+    },
+    {
+      "element": "Flying squirrel",
+      "recipes": [
+        "Squirrel + Bird",
+        "Squirrel + Hummingbird",
+        "Squirrel + Seagull",
+        "Squirrel + Pigeon",
+        "Squirrel + Air",
+        "Squirrel + Airplane",
+        "Squirrel + Seaplane",
+        "Squirrel + Helicopter"
+      ]
+    },
+    {
+      "element": "Fork",
+      "recipes": [
+        "Pitchfork + Small"
+      ]
+    },
+    {
+      "element": "Frozen yogurt",
+      "recipes": [
+        "Yogurt + Cold",
+        "Yogurt + Ice"
+      ]
+    },
+    {
+      "element": "Gift",
+      "recipes": [
+        "Christmas tree + Santa",
+        "Christmas tree + Wrapping paper",
+        "Santa + Christmas stocking",
+        "Santa + Chimney",
+        "Santa + Fireplace",
+        "Santa + Cookie",
+        "Santa + Milk",
+        "Santa + Wrapping paper",
+        "Christmas stocking + Wrapping paper",
+        "Fireplace + Wrapping paper"
+      ]
+    },
+    {
+      "element": "Hamburger",
+      "recipes": [
+        "Meat + Bread",
+        "Meat + Cheese"
+      ]
+    },
+    {
+      "element": "Hamster",
+      "recipes": [
+        "Mouse + Wheel",
+        "Mouse + Domestication",
+        "Rat + Wheel",
+        "Rat + Domestication"
+      ]
+    },
+    {
+      "element": "Hedgehog",
+      "recipes": [
+        "Animal + Needle",
+        "Mouse + Needle",
+        "Rat + Needle"
+      ]
+    },
+    {
+      "element": "Ice cream truck",
+      "recipes": [
+        "Ice cream + Car",
+        "Ice cream + Bus",
+        "Ice cream + Wagon"
+      ]
+    },
+    {
+      "element": "Iced tea",
+      "recipes": [
+        "Tea + Ice",
+        "Tea + Cold"
+      ]
+    },
+    {
+      "element": "Jar",
+      "recipes": [
+        "Jam + Container",
+        "Jam + Bottle",
+        "Jam + Glass",
+        "Jam + Bucket"
+      ]
+    },
+    {
+      "element": "Kite",
+      "recipes": [
+        "Paper + Wind",
+        "Paper + Sky",
+        "Paper + Air"
+      ]
+    },
+    {
+      "element": "Letter",
+      "recipes": [
+        "Paper + Pencil"
+      ]
+    },
+    {
+      "element": "Library",
+      "recipes": [
+        "Book + Container",
+        "Book + House"
+      ]
+    },
+    {
+      "element": "Map",
+      "recipes": [
+        "Paper + Land",
+        "Paper + Hill",
+        "Paper + Mountain",
+        "Paper + Mountain range",
+        "Paper + Continent",
+        "Paper + Ocean",
+        "Paper + Sea",
+        "Paper + Lake",
+        "Paper + River",
+        "Paper + City",
+        "Paper + Village"
+      ]
+    },
+    {
+      "element": "Marshmallows",
+      "recipes": [
+        "Sugar + Campfire"
+      ]
+    },
+    {
+      "element": "Milk shake",
+      "recipes": [
+        "Ice cream + Milk",
+        "Ice cream + Yogurt",
+        "Ice cream + Water"
+      ]
+    },
+    {
+      "element": "Money",
+      "recipes": [
+        "Paper + Gold",
+        "Paper + Diamond",
+        "Paper + Bank"
+      ]
+    },
+    {
+      "element": "Mouse",
+      "recipes": [
+        "Animal + Cheese",
+        "Cheese + Barn",
+        "Cheese + House",
+        "Cheese + Farm",
+        "Cheese + Wall"
+      ]
+    },
+    {
+      "element": "Mousetrap",
+      "recipes": [
+        "Cheese + Wood",
+        "Cheese + Metal",
+        "Cheese + Steel",
+        "Mouse + Blade"
+      ]
+    },
+    {
+      "element": "Musician",
+      "recipes": [
+        "Human + Flute",
+        "Human + Music",
+        "Human + Sheet music",
+        "Human + Drum",
+        "Human + Pan flute"
+      ]
+    },
+    {
+      "element": "Newspaper",
+      "recipes": [
+        "Paper + Paper",
+        "Paper + Story",
+        "Letter + Letter"
+      ]
+    },
+    {
+      "element": "Orchard",
+      "recipes": [
+        "Fruit tree + Fruit tree",
+        "Fruit tree + Field",
+        "Fruit tree + Tree",
+        "Fruit tree + Farmer",
+        "Fruit tree + Farm",
+        "Fruit tree + Forest",
+        "Fruit tree + Container"
+      ]
+    },
+    {
+      "element": "Origami",
+      "recipes": [
+        "Paper + Bird",
+        "Paper + Animal",
+        "Paper + Eagle",
+        "Paper + Seagull",
+        "Paper + Owl",
+        "Paper + Pigeon",
+        "Paper + Cow",
+        "Paper + Horse",
+        "Paper + Dog",
+        "Paper + Cat",
+        "Paper + Lion",
+        "Paper + Hummingbird",
+        "Paper + Chicken",
+        "Paper + Penguin",
+        "Paper + Duck",
+        "Paper + Vulture"
+      ]
+    },
+    {
+      "element": "Pan flute",
+      "recipes": [
+        "Flute + Flute"
+      ]
+    },
+    {
+      "element": "Paper airplane",
+      "recipes": [
+        "Airplane + Paper"
+      ]
+    },
+    {
+      "element": "Pasta",
+      "recipes": [
+        "Flour + Egg"
+      ]
+    },
+    {
+      "element": "Pencil sharpener",
+      "recipes": [
+        "Pencil + Blade",
+        "Pencil + Blender",
+        "Pencil + Sword"
+      ]
+    },
+    {
+      "element": "Pizza",
+      "recipes": [
+        "Cheese + Dough",
+        "Cheese + Bread",
+        "Cheese + Wheel"
+      ]
+    },
+    {
+      "element": "Printer",
+      "recipes": [
+        "Computer + Paper",
+        "Computer + Newspaper"
+      ]
+    },
+    {
+      "element": "Recipe",
+      "recipes": [
+        "Paper + Flour",
+        "Paper + Meat",
+        "Paper + Baker",
+        "Paper + Bakery",
+        "Paper + Vegetable",
+        "Paper + Fruit",
+        "Paper + Cook",
+        "Newspaper + Flour",
+        "Newspaper + Meat",
+        "Newspaper + Baker",
+        "Newspaper + Bakery",
+        "Newspaper + Vegetable",
+        "Newspaper + Fruit"
+      ]
+    },
+    {
+      "element": "Robot vacuum",
+      "recipes": [
+        "Robot + Vacuum cleaner",
+        "Robot + Broom",
+        "Computer + Vacuum cleaner",
+        "Computer + Broom"
+      ]
+    },
+    {
+      "element": "Rock",
+      "recipes": [
+        "Pebble + Pebble",
+        "Pebble + Big",
+        "Boulder + Small"
+      ]
+    },
+    {
+      "element": "Ruler",
+      "recipes": [
+        "Wood + Pencil"
+      ]
+    },
+    {
+      "element": "Sailboat",
+      "recipes": [
+        "Boat + Wind",
+        "Boat + Fabric",
+        "Steamboat + Wind",
+        "Steamboat + Fabric"
+      ]
+    },
+    {
+      "element": "Sandpaper",
+      "recipes": [
+        "Sand + Paper",
+        "Sand + Fabric"
+      ]
+    },
+    {
+      "element": "Sleigh",
+      "recipes": [
+        "Cart + Snow",
+        "Cart + Ice",
+        "Cart + Arctic",
+        "Cart + Antarctica",
+        "Wagon + Snow",
+        "Wagon + Ice",
+        "Wagon + Arctic",
+        "Wagon + Antarctica"
+      ]
+    },
+    {
+      "element": "Smoke signal",
+      "recipes": [
+        "Fabric + Campfire",
+        "Fabric + Smoke",
+        "Smoke + Letter"
+      ]
+    },
+    {
+      "element": "Spoon",
+      "recipes": [
+        "Shovel + Small"
+      ]
+    },
+    {
+      "element": "Sprinkles",
+      "recipes": [
+        "Sugar + Confetti",
+        "Sugar + Paint",
+        "Sugar + Rainbow",
+        "Sugar + Double rainbow!"
+      ]
+    },
+    {
+      "element": "Syringe",
+      "recipes": [
+        "Doctor + Needle",
+        "Tool + Needle"
+      ]
+    },
+    {
+      "element": "Tablet",
+      "recipes": [
+        "Laptop + Small"
+      ]
+    },
+    {
+      "element": "Tent",
+      "recipes": [
+        "Fabric + Wood",
+        "Fabric + House",
+        "Fabric + Village",
+        "Fabric + Wall"
+      ]
+    },
+    {
+      "element": "Trainyard",
+      "recipes": [
+        "Train + Container",
+        "Train + House",
+        "Train + Wall",
+        "Train + Garage"
+      ]
+    },
+    {
+      "element": "Vacuum cleaner",
+      "recipes": [
+        "Broom + Electricity",
+        "Broom + Machine"
+      ]
+    },
+    {
+      "element": "Vine",
+      "recipes": [
+        "Rainforest + Rope",
+        "Rainforest + Thread",
+        "Rainforest + Wire"
+      ]
+    },
+    {
+      "element": "Wagon",
+      "recipes": [
+        "Cart + Horse",
+        "Cart + Fabric",
+        "Cart + House",
+        "Cart + Wall",
+        "Cart + Cow"
+      ]
+    },
+    {
+      "element": "Wax",
+      "recipes": [
+        "Beehive + Bee",
+        "Beehive + Wall",
+        "Beehive + Blade",
+        "Beehive + Sword",
+        "Beehive + Tool",
+        "Beehive + Beekeeper"
+      ]
+    },
+    {
+      "element": "Web",
+      "recipes": [
+        "Spider + Thread",
+        "Spider + Cotton",
+        "Spider + Fabric",
+        "Spider + Net"
+      ]
+    },
+    {
+      "element": "Wine",
+      "recipes": [
+        "Alcohol + Fruit",
+        "Alcohol + Juice",
+        "Tool + Dionysus"
+      ]
+    },
+    {
+      "element": "Wrapping paper",
+      "recipes": [
+        "Paper + Gift",
+        "Paper + Christmas tree",
+        "Paper + Christmas stocking",
+        "Paper + Santa"
+      ]
+    },
+    {
+      "element": "Writer",
+      "recipes": [
+        "Human + Book",
+        "Human + Pencil"
+      ]
+    }
+  ],
+  "Tier 13 elements": [
+    {
+      "element": "Armadillo",
+      "recipes": [
+        "Armor + Animal",
+        "Armor + Dog",
+        "Armor + Cat"
+      ]
+    },
+    {
+      "element": "Baker",
+      "recipes": [
+        "Human + Bakery",
+        "Human + Bread",
+        "Human + Banana bread",
+        "Human + Pizza",
+        "Human + Toast",
+        "Human + Batter",
+        "Human + Pie",
+        "Human + Donut",
+        "Human + Cookie",
+        "Human + Cookie dough",
+        "Human + Dough"
+      ]
+    },
+    {
+      "element": "Banana bread",
+      "recipes": [
+        "Bread + Banana",
+        "Dough + Banana"
+      ]
+    },
+    {
+      "element": "Barrel",
+      "recipes": [
+        "Wine + Container",
+        "Wine + Wood"
+      ]
+    },
+    {
+      "element": "Bat",
+      "recipes": [
+        "Mouse + Sky",
+        "Mouse + Air",
+        "Mouse + Bird",
+        "Mouse + Hummingbird",
+        "Mouse + Atmosphere"
+      ]
+    },
+    {
+      "element": "Bread",
+      "recipes": [
+        "Dough + Fire",
+        "Dough + Energy"
+      ]
+    },
+    {
+      "element": "Bulletproof vest",
+      "recipes": [
+        "Bullet + Armor",
+        "Gun + Armor"
+      ]
+    },
+    {
+      "element": "Candle",
+      "recipes": [
+        "Wax + Thread",
+        "Wax + Fire",
+        "Wax + Light",
+        "Wax + Flashlight",
+        "Wax + Lamp"
+      ]
+    },
+    {
+      "element": "Cheeseburger",
+      "recipes": [
+        "Cheese + Hamburger",
+        "Cheese + Sandwich"
+      ]
+    },
+    {
+      "element": "Chocolate milk",
+      "recipes": [
+        "Chocolate + Milk",
+        "Chocolate + Coconut milk"
+      ]
+    },
+    {
+      "element": "Circus",
+      "recipes": [
+        "Tent + Big",
+        "Tent + Animal"
+      ]
+    },
+    {
+      "element": "Cookie cutter",
+      "recipes": [
+        "Blade + Dough",
+        "Blade + Cookie dough"
+      ]
+    },
+    {
+      "element": "Cookie dough",
+      "recipes": [
+        "Dough + Cookie",
+        "Dough + Sugar",
+        "Dough + Chocolate"
+      ]
+    },
+    {
+      "element": "Donut",
+      "recipes": [
+        "Dough + Oil",
+        "Dough + Wheel",
+        "Cookie dough + Oil",
+        "Cookie dough + Wheel"
+      ]
+    },
+    {
+      "element": "Email",
+      "recipes": [
+        "Letter + Computer",
+        "Letter + Computer mouse",
+        "Letter + Internet",
+        "Letter + Electricity"
+      ]
+    },
+    {
+      "element": "Gingerbread house",
+      "recipes": [
+        "House + Gingerbread man",
+        "House + Dough",
+        "House + Cookie dough",
+        "House + Cookie",
+        "House + Donut",
+        "House + Cake"
+      ]
+    },
+    {
+      "element": "Gingerbread man",
+      "recipes": [
+        "Dough + Life",
+        "Dough + Magic",
+        "Dough + Story",
+        "Cookie + Life",
+        "Cookie + Magic",
+        "Cookie + Story",
+        "Cookie dough + Life",
+        "Cookie dough + Magic",
+        "Cookie dough + Story"
+      ]
+    },
+    {
+      "element": "Hot chocolate",
+      "recipes": [
+        "Chocolate milk + Heat",
+        "Chocolate + Heat"
+      ]
+    },
+    {
+      "element": "Librarian",
+      "recipes": [
+        "Human + Library"
+      ]
+    },
+    {
+      "element": "Mac and cheese",
+      "recipes": [
+        "Cheese + Pasta"
+      ]
+    },
+    {
+      "element": "Mail truck",
+      "recipes": [
+        "Car + Letter",
+        "Car + Mailman",
+        "Car + Post office"
+      ]
+    },
+    {
+      "element": "Mailbox",
+      "recipes": [
+        "Letter + Box",
+        "Letter + Metal",
+        "Letter + Steel",
+        "Letter + Wood",
+        "Mailman + Box",
+        "Mailman + Metal",
+        "Mailman + Steel",
+        "Mailman + Wood"
+      ]
+    },
+    {
+      "element": "Mailman",
+      "recipes": [
+        "Human + Letter",
+        "Human + Newspaper",
+        "Letter + Mailbox"
+      ]
+    },
+    {
+      "element": "Music",
+      "recipes": [
+        "Musician + Flute",
+        "Musician + Sheet music",
+        "Musician + Drum",
+        "Musician + Pan flute"
+      ]
+    },
+    {
+      "element": "Painting",
+      "recipes": [
+        "Canvas + Paint",
+        "Canvas + Painter"
+      ]
+    },
+    {
+      "element": "Paper cup",
+      "recipes": [
+        "Cup + Paper"
+      ]
+    },
+    {
+      "element": "Paraglider",
+      "recipes": [
+        "Kite + Big"
+      ]
+    },
+    {
+      "element": "Pie",
+      "recipes": [
+        "Dough + Fruit",
+        "Cookie dough + Fruit",
+        "Dough + Meat",
+        "Fruit + Baker",
+        "Fruit + Bakery"
+      ]
+    },
+    {
+      "element": "Post office",
+      "recipes": [
+        "Mailman + House",
+        "Mailman + Wall",
+        "Mailman + Container",
+        "Mailman + Letter",
+        "Letter + Letter",
+        "Letter + House",
+        "Letter + Wall"
+      ]
+    },
+    {
+      "element": "Smartphone",
+      "recipes": [
+        "Small + Tablet"
+      ]
+    },
+    {
+      "element": "Spaghetti",
+      "recipes": [
+        "Pasta + Thread",
+        "Pasta + Wire",
+        "Pasta + Rope"
+      ]
+    },
+    {
+      "element": "String phone",
+      "recipes": [
+        "Paper cup + Wire",
+        "Paper cup + Thread",
+        "Cup + Wire",
+        "Cup + Thread"
+      ]
+    },
+    {
+      "element": "Treasure map",
+      "recipes": [
+        "Map + Pirate",
+        "Map + Pirate ship",
+        "Map + Treasure",
+        "Map + Island"
+      ]
+    },
+    {
+      "element": "Vinegar",
+      "recipes": [
+        "Wine + Time",
+        "Wine + Air",
+        "Wine + Oxygen"
+      ]
+    }
+  ],
+  "Tier 14 elements": [
+    {
+      "element": "Bakery",
+      "recipes": [
+        "House + Bread",
+        "House + Baker",
+        "House + Donut",
+        "House + Cake",
+        "City + Bread",
+        "City + Baker",
+        "City + Donut",
+        "City + Cake",
+        "Village + Bread",
+        "Village + Baker",
+        "Village + Donut",
+        "Village + Cake",
+        "Baker + Container"
+      ]
+    },
+    {
+      "element": "Cake",
+      "recipes": [
+        "Dough + Candle",
+        "Donut + Candle",
+        "Bread + Sugar"
+      ]
+    },
+    {
+      "element": "Cookie",
+      "recipes": [
+        "Cookie dough + Heat",
+        "Cookie dough + Fire",
+        "Cookie dough + Baker",
+        "Cookie dough + Cookie cutter",
+        "Dough + Cookie cutter"
+      ]
+    },
+    {
+      "element": "Fortune cookie",
+      "recipes": [
+        "Paper + Cookie",
+        "Paper + Cookie dough",
+        "Paper + Gingerbread man"
+      ]
+    },
+    {
+      "element": "Sandwich",
+      "recipes": [
+        "Bread + Meat",
+        "Bread + Bacon",
+        "Bread + Ham",
+        "Bread + Cheese",
+        "Bread + Vegetable"
+      ]
+    },
+    {
+      "element": "Sheet music",
+      "recipes": [
+        "Music + Paper",
+        "Music + Book"
+      ]
+    },
+    {
+      "element": "Toast",
+      "recipes": [
+        "Sandwich + Fire",
+        "Bread + Fire"
+      ]
+    },
+    {
+      "element": "Treasure",
+      "recipes": [
+        "Treasure map + Pirate",
+        "Treasure map + Pirate ship",
+        "Treasure map + Island",
+        "Treasure map + Sailor"
+      ]
+    }
+  ],
+  "Tier 15 elements": [
+    {
+      "element": "Grilled cheese",
+      "recipes": [
+        "Cheese + Toast"
+      ]
+    },
+    {
+      "element": "Picnic",
+      "recipes": [
+        "Sandwich + Grass",
+        "Sandwich + Beach",
+        "Sandwich + Lawn",
+        "Sandwich + Garden",
+        "Sandwich + Fabric"
+      ]
+    }
+  ],
+  "Tier 2 elements": [
+    {
+      "element": "Brick",
+      "recipes": [
+        "Mud + Fire",
+        "Mud + Sun",
+        "Clay + Fire",
+        "Clay + Sun",
+        "Clay + Stone"
+      ]
+    },
+    {
+      "element": "Continent",
+      "recipes": [
+        "Land + Big",
+        "Land + Land",
+        "Land + Earth",
+        "Mountain range + Mountain range"
+      ]
+    },
+    {
+      "element": "Earthquake",
+      "recipes": [
+        "Earth + Motion",
+        "Earth + Energy",
+        "Continent + Motion"
+      ]
+    },
+    {
+      "element": "Eruption",
+      "recipes": [
+        "Pressure + Volcano",
+        "Pressure + Lava",
+        "Volcano + Time"
+      ]
+    },
+    {
+      "element": "Geyser",
+      "recipes": [
+        "Steam + Earth",
+        "Steam + Hill",
+        "Steam + Mountain",
+        "Steam + Pressure"
+      ]
+    },
+    {
+      "element": "Granite",
+      "recipes": [
+        "Pressure + Lava",
+        "Pressure + Stone",
+        "Pressure + Rock"
+      ]
+    },
+    {
+      "element": "Gunpowder",
+      "recipes": [
+        "Charcoal + Mineral",
+        "Energy + Mineral",
+        "Energy + Charcoal",
+        "Fire + Dust",
+        "Energy + Dust"
+      ]
+    },
+    {
+      "element": "Heat",
+      "recipes": [
+        "Fire + Idea",
+        "Fire + Science",
+        "Lava + Philosophy",
+        "Air + Energy"
+      ]
+    },
+    {
+      "element": "Obsidian",
+      "recipes": [
+        "Lava + Water",
+        "Lava + Cold",
+        "Lava + Glass"
+      ]
+    },
+    {
+      "element": "Pond",
+      "recipes": [
+        "Puddle + Puddle",
+        "Puddle + Water",
+        "Puddle + Big",
+        "Lake + Small"
+      ]
+    },
+    {
+      "element": "Stone",
+      "recipes": [
+        "Earth + Pressure",
+        "Earth + Solid",
+        "Air + Lava"
+      ]
+    },
+    {
+      "element": "Volcano",
+      "recipes": [
+        "Lava + Earth",
+        "Lava + Mountain",
+        "Lava + Hill",
+        "Lava + Container",
+        "Fire + Mountain",
+        "Fire + Hill",
+        "Pressure + Mountain",
+        "Pressure + Hill"
+      ]
+    },
+    {
+      "element": "Wind",
+      "recipes": [
+        "Motion + Air",
+        "Motion + Atmosphere",
+        "Air + Pressure"
+      ]
+    }
+  ],
+  "Tier 3 elements": [
+    {
+      "element": "Chimney",
+      "recipes": [
+        "House + Fireplace",
+        "House + Smoke",
+        "Smoke + Brick",
+        "Smoke + Fireplace",
+        "Smoke + Stone",
+        "Fireplace + Brick",
+        "Fireplace + Stone"
+      ]
+    },
+    {
+      "element": "Clay",
+      "recipes": [
+        "Mud + Sand",
+        "Mud + Stone",
+        "Mineral + Sand",
+        "Mineral + Stone",
+        "Mineral + Rock",
+        "Stone + Liquid",
+        "Rock + Liquid"
+      ]
+    },
+    {
+      "element": "Explosion",
+      "recipes": [
+        "Fire + Gunpowder",
+        "Fire + Petroleum",
+        "Gunpowder + Electricity",
+        "Gunpowder + Lightning",
+        "Pressure + Volcano",
+        "Pressure + Petroleum",
+        "Explosion + Petroleum",
+        "Heat + Petroleum",
+        "Lava + Petroleum",
+        "Volcano + Petroleum"
+      ]
+    },
+    {
+      "element": "Lake",
+      "recipes": [
+        "Pond + Water",
+        "Pond + Big",
+        "Pond + Pond",
+        "Sea + Small"
+      ]
+    },
+    {
+      "element": "Metal",
+      "recipes": [
+        "Stone + Fire",
+        "Stone + Heat",
+        "Ore + Fire",
+        "Ore + Heat",
+        "Ore + Tool"
+      ]
+    },
+    {
+      "element": "Mountain",
+      "recipes": [
+        "Big + Hill",
+        "Earth + Earthquake",
+        "Earth + Hill",
+        "Hill + Hill",
+        "Hill + Earthquake",
+        "Earth + Big"
+      ]
+    },
+    {
+      "element": "Planet",
+      "recipes": [
+        "Continent + Continent",
+        "Continent + Ocean",
+        "Earth + Space",
+        "Earth + Solar system",
+        "Earth + Sky"
+      ]
+    },
+    {
+      "element": "Plasma",
+      "recipes": [
+        "Science + Star",
+        "Science + Sun",
+        "Heat + Heat",
+        "Heat + Pressure"
+      ]
+    },
+    {
+      "element": "Sand",
+      "recipes": [
+        "Stone + Air",
+        "Stone + Wind",
+        "Air + Rock",
+        "Wind + Rock",
+        "Pebble + Air",
+        "Pebble + Wind",
+        "Pebble + Small"
+      ]
+    },
+    {
+      "element": "Tornado",
+      "recipes": [
+        "Storm + Storm",
+        "Storm + Wind",
+        "Storm + Motion",
+        "Wind + Big",
+        "Wind + Wind",
+        "Wind + Motion"
+      ]
+    },
+    {
+      "element": "Wall",
+      "recipes": [
+        "Brick + Brick",
+        "Wood + Wood",
+        "Stone + Stone"
+      ]
+    },
+    {
+      "element": "Warmth",
+      "recipes": [
+        "Heat + Air",
+        "Heat + Human"
+      ]
+    }
+  ],
+  "Tier 4 elements": [
+    {
+      "element": "Atmosphere",
+      "recipes": [
+        "Air + Planet",
+        "Air + Sky"
+      ]
+    },
+    {
+      "element": "Atomic bomb",
+      "recipes": [
+        "Explosion + Energy",
+        "Explosion + Explosion",
+        "Explosion + Big"
+      ]
+    },
+    {
+      "element": "Avalanche",
+      "recipes": [
+        "Earthquake + Snow",
+        "Earthquake + Glacier",
+        "Earthquake + Mountain",
+        "Earthquake + Mountain range",
+        "Wave + Glacier",
+        "Wave + Mountain",
+        "Wave + Mountain range",
+        "Sound + Glacier",
+        "Sound + Mountain",
+        "Sound + Mountain range",
+        "Gun + Glacier",
+        "Gun + Mountain",
+        "Gun + Mountain range"
+      ]
+    },
+    {
+      "element": "Beach",
+      "recipes": [
+        "Sand + Ocean",
+        "Sand + Sea",
+        "Sand + Lake",
+        "Sand + Water",
+        "Sand + Wave"
+      ]
+    },
+    {
+      "element": "Blade",
+      "recipes": [
+        "Stone + Metal",
+        "Stone + Steel",
+        "Rock + Metal",
+        "Rock + Steel"
+      ]
+    },
+    {
+      "element": "Boiler",
+      "recipes": [
+        "Pressure + Metal",
+        "Pressure + Tool",
+        "Pressure + Container",
+        "Steam + Metal",
+        "Steam + Tool"
+      ]
+    },
+    {
+      "element": "Bullet",
+      "recipes": [
+        "Gunpowder + Metal",
+        "Gunpowder + Steel",
+        "Gunpowder + Tool",
+        "Gunpowder + Container"
+      ]
+    },
+    {
+      "element": "Dam",
+      "recipes": [
+        "River + Beaver",
+        "River + Wall",
+        "Water + Wall",
+        "Stream + Wall",
+        "Beaver + Tree",
+        "Beaver + Stream",
+        "Beaver + House",
+        "Beaver + Lake",
+        "Beaver + Water"
+      ]
+    },
+    {
+      "element": "Desert",
+      "recipes": [
+        "Sand + Sand",
+        "Sand + Land",
+        "Sand + Cactus",
+        "Sand + Lizard",
+        "Sand + Vulture"
+      ]
+    },
+    {
+      "element": "Dune",
+      "recipes": [
+        "Wind + Desert",
+        "Wind + Sand",
+        "Wind + Beach",
+        "Sand + Desert",
+        "Sandstorm + Desert"
+      ]
+    },
+    {
+      "element": "Firewall",
+      "recipes": [
+        "Fire + Wall"
+      ]
+    },
+    {
+      "element": "Glass",
+      "recipes": [
+        "Sand + Fire",
+        "Sand + Heat",
+        "Sand + Lightning",
+        "Sand + Electricity"
+      ]
+    },
+    {
+      "element": "Gold",
+      "recipes": [
+        "Metal + Sun",
+        "Steel + Sun",
+        "Metal + Rainbow",
+        "Steel + Rainbow",
+        "Metal + Butter",
+        "Steel + Butter",
+        "Metal + Sand",
+        "Steel + Sand",
+        "Metal + Light",
+        "Steel + Light",
+        "Metal + Alchemist",
+        "Steel + Alchemist",
+        "Metal + Philosopher's stone",
+        "Steel + Philosopher's stone",
+        "Quicksilver + Philosopher's stone"
+      ]
+    },
+    {
+      "element": "Grenade",
+      "recipes": [
+        "Explosion + Metal",
+        "Explosion + Steel",
+        "Explosion + Warrior"
+      ]
+    },
+    {
+      "element": "House",
+      "recipes": [
+        "Wall + Wall",
+        "Wall + Human",
+        "Wall + Tool",
+        "Fireplace + Container",
+        "Family + Container"
+      ]
+    },
+    {
+      "element": "Mercury",
+      "recipes": [
+        "Planet + Small",
+        "Planet + Heat"
+      ]
+    },
+    {
+      "element": "Moon",
+      "recipes": [
+        "Sky + Cheese",
+        "Sky + Planet",
+        "Sky + Stone",
+        "Sky + Time",
+        "Stone + Planet",
+        "Night + Planet",
+        "Night + Stone",
+        "Night + Earth",
+        "Night + Cheese"
+      ]
+    },
+    {
+      "element": "Mountain range",
+      "recipes": [
+        "Mountain + Mountain",
+        "Mountain + Continent"
+      ]
+    },
+    {
+      "element": "Plow",
+      "recipes": [
+        "Earth + Metal",
+        "Earth + Steel",
+        "Earth + Wood",
+        "Field + Metal",
+        "Field + Steel",
+        "Field + Wood",
+        "Field + Tool"
+      ]
+    },
+    {
+      "element": "River",
+      "recipes": [
+        "Lake + Motion",
+        "Stream + Big",
+        "Water + Mountain",
+        "Rain + Mountain",
+        "Rain + Hill"
+      ]
+    },
+    {
+      "element": "Rust",
+      "recipes": [
+        "Air + Metal",
+        "Air + Steel",
+        "Metal + Oxygen",
+        "Steel + Oxygen"
+      ]
+    },
+    {
+      "element": "Sandstone",
+      "recipes": [
+        "Sand + Stone",
+        "Sand + Rock",
+        "Sand + Earth"
+      ]
+    },
+    {
+      "element": "Sandstorm",
+      "recipes": [
+        "Sand + Storm",
+        "Sand + Tornado",
+        "Sand + Motion",
+        "Desert + Storm",
+        "Desert + Tornado",
+        "Desert + Motion",
+        "Desert + Wind"
+      ]
+    },
+    {
+      "element": "Sea",
+      "recipes": [
+        "Lake + Lake",
+        "Lake + Water",
+        "Lake + Big",
+        "Ocean + Small"
+      ]
+    },
+    {
+      "element": "Solar system",
+      "recipes": [
+        "Planet + Planet",
+        "Planet + Sun",
+        "Planet + Container",
+        "Sun + Container",
+        "Mars + Container",
+        "Mercury + Container",
+        "Venus + Container",
+        "Jupiter + Container",
+        "Saturn + Container"
+      ]
+    },
+    {
+      "element": "Sun",
+      "recipes": [
+        "Sky + Light",
+        "Sky + Fire",
+        "Day + Space",
+        "Day + Sky",
+        "Day + Light",
+        "Planet + Fire",
+        "Planet + Light"
+      ]
+    },
+    {
+      "element": "Venus",
+      "recipes": [
+        "Planet + Acid rain",
+        "Planet + Smog",
+        "Planet + Volcano"
+      ]
+    },
+    {
+      "element": "Waterfall",
+      "recipes": [
+        "River + Mountain",
+        "River + Mountain range",
+        "River + Hill",
+        "Lake + Mountain",
+        "Lake + Mountain range",
+        "Lake + Hill"
+      ]
+    },
+    {
+      "element": "Wave",
+      "recipes": [
+        "Ocean + Wind",
+        "Ocean + Storm",
+        "Ocean + Hurricane",
+        "Sea + Wind",
+        "Sea + Storm",
+        "Sea + Hurricane",
+        "Lake + Wind",
+        "Lake + Storm",
+        "Lake + Hurricane"
+      ]
+    }
+  ],
+  "Tier 5 elements": [
+    {
+      "element": "Aquarium",
+      "recipes": [
+        "Glass + Water",
+        "Glass + Fish",
+        "Glass + Puddle",
+        "Glass + Pond",
+        "Fish + Container",
+        "Small + Swimming pool"
+      ]
+    },
+    {
+      "element": "Aurora",
+      "recipes": [
+        "Electricity + Atmosphere",
+        "Electricity + Antarctica",
+        "Electricity + Sky",
+        "Electricity + Arctic",
+        "Sky + Antarctica",
+        "Sky + Arctic",
+        "Sun + Atmosphere"
+      ]
+    },
+    {
+      "element": "Bank",
+      "recipes": [
+        "Gold + House",
+        "Gold + Skyscraper",
+        "Gold + City",
+        "Safe + House",
+        "Safe + Skyscraper",
+        "Safe + City",
+        "Money + House",
+        "Money + Skyscraper",
+        "Money + City",
+        "Money + Container",
+        "House + Vault"
+      ]
+    },
+    {
+      "element": "Black hole",
+      "recipes": [
+        "Pressure + Star",
+        "Pressure + Sun",
+        "Darkness + Star",
+        "Darkness + Sun"
+      ]
+    },
+    {
+      "element": "Blender",
+      "recipes": [
+        "Blade + Glass",
+        "Blade + Electricity",
+        "Blade + Windmill",
+        "Blade + Wind turbine",
+        "Blade + Motion"
+      ]
+    },
+    {
+      "element": "Bridge",
+      "recipes": [
+        "Wood + River",
+        "Metal + River",
+        "Steel + River",
+        "Stream + Wood",
+        "Stream + Metal",
+        "Stream + Steel"
+      ]
+    },
+    {
+      "element": "Cloud",
+      "recipes": [
+        "Atmosphere + Mist",
+        "Atmosphere + Water",
+        "Sky + Mist",
+        "Sky + Water"
+      ]
+    },
+    {
+      "element": "Current",
+      "recipes": [
+        "Ocean + Motion",
+        "Ocean + Heat",
+        "Ocean + Cold",
+        "Ocean + Science",
+        "Sea + Motion",
+        "Sea + Heat",
+        "Sea + Cold",
+        "Sea + Science"
+      ]
+    },
+    {
+      "element": "Eclipse",
+      "recipes": [
+        "Sun + Moon"
+      ]
+    },
+    {
+      "element": "Factory",
+      "recipes": [
+        "House + Chimney",
+        "House + Tool"
+      ]
+    },
+    {
+      "element": "Field",
+      "recipes": [
+        "Farmer + Earth",
+        "Farmer + Land",
+        "Farmer + Soil",
+        "Tool + Earth",
+        "Tool + Land",
+        "Tool + Soil",
+        "Plow + Earth",
+        "Plow + Land",
+        "Plow + Soil"
+      ]
+    },
+    {
+      "element": "Fireworks",
+      "recipes": [
+        "Explosion + Sky",
+        "Explosion + Atmosphere"
+      ]
+    },
+    {
+      "element": "Flood",
+      "recipes": [
+        "Rain + Rain",
+        "Rain + River",
+        "Rain + Lake",
+        "Rain + Big",
+        "Rain + Time",
+        "House + River",
+        "House + Tsunami",
+        "River + City",
+        "Tsunami + City"
+      ]
+    },
+    {
+      "element": "Galaxy",
+      "recipes": [
+        "Star + Star",
+        "Star + Solar system",
+        "Star + Space",
+        "Star + Container",
+        "Solar system + Solar system",
+        "Solar system + Space",
+        "Solar system + Container",
+        "Space + Space",
+        "Supernova + Container"
+      ]
+    },
+    {
+      "element": "Glasses",
+      "recipes": [
+        "Glass + Glass",
+        "Glass + Metal",
+        "Glass + Steel",
+        "Glass + Human",
+        "Human + Lens",
+        "Lens + Lens"
+      ]
+    },
+    {
+      "element": "Gun",
+      "recipes": [
+        "Bullet + Metal",
+        "Bullet + Steel",
+        "Bullet + Bow",
+        "Bullet + Container",
+        "Bow + Metal",
+        "Bow + Steel",
+        "Bow + Gunpowder"
+      ]
+    },
+    {
+      "element": "Hourglass",
+      "recipes": [
+        "Sand + Glass",
+        "Sand + Time",
+        "Sand + Container",
+        "Glass + Time",
+        "Time + Container"
+      ]
+    },
+    {
+      "element": "Hurricane",
+      "recipes": [
+        "Ocean + Tornado",
+        "Sea + Tornado",
+        "Ocean + Storm",
+        "Sea + Storm"
+      ]
+    },
+    {
+      "element": "Island",
+      "recipes": [
+        "Volcano + Sea",
+        "Volcano + Ocean",
+        "Maui's fishhook + Ocean",
+        "Maui's fishhook + Sea"
+      ]
+    },
+    {
+      "element": "Katana",
+      "recipes": [
+        "Blade + Heat",
+        "Blade + Shuriken",
+        "Blade + Ninja",
+        "Sword + Shuriken",
+        "Sword + Ninja"
+      ]
+    },
+    {
+      "element": "Mars",
+      "recipes": [
+        "Planet + Rust",
+        "Planet + Desert"
+      ]
+    },
+    {
+      "element": "Meteoroid",
+      "recipes": [
+        "Space + Stone",
+        "Space + Rock",
+        "Space + Boulder",
+        "Solar system + Stone",
+        "Solar system + Rock",
+        "Solar system + Boulder",
+        "Sun + Stone",
+        "Sun + Rock",
+        "Sun + Boulder"
+      ]
+    },
+    {
+      "element": "Mirror",
+      "recipes": [
+        "Glass + Metal",
+        "Glass + Steel",
+        "Glass + Wood"
+      ]
+    },
+    {
+      "element": "Oasis",
+      "recipes": [
+        "Desert + Water",
+        "Desert + Puddle",
+        "Desert + Pond",
+        "Desert + River",
+        "Desert + Lake",
+        "Desert + Stream",
+        "Desert + Tree",
+        "Desert + Palm"
+      ]
+    },
+    {
+      "element": "Ocean",
+      "recipes": [
+        "Sea + Sea",
+        "Sea + Water",
+        "Sea + Big",
+        "Tide + Container"
+      ]
+    },
+    {
+      "element": "Primordial soup",
+      "recipes": [
+        "Lava + Ocean",
+        "Lava + Sea",
+        "Planet + Ocean",
+        "Planet + Sea",
+        "Earth + Ocean",
+        "Earth + Sea"
+      ]
+    },
+    {
+      "element": "Pyramid",
+      "recipes": [
+        "Desert + Stone",
+        "Desert + Grave",
+        "Desert + Graveyard",
+        "Desert + Gravestone",
+        "Desert + Mountain",
+        "Desert + Hill",
+        "Mummy + Container",
+        "Container + Book of the dead"
+      ]
+    },
+    {
+      "element": "Rainbow",
+      "recipes": [
+        "Rain + Sun",
+        "Rain + Light",
+        "Water + Light",
+        "Water + Sun",
+        "Cloud + Light",
+        "Prism + Sun",
+        "Prism + Light"
+      ]
+    },
+    {
+      "element": "Rocket",
+      "recipes": [
+        "Atmosphere + Airplane",
+        "Atmosphere + Metal",
+        "Atmosphere + Steel",
+        "Atmosphere + Train",
+        "Atmosphere + Machine",
+        "Atmosphere + Car",
+        "Atmosphere + Boat",
+        "Atmosphere + Steamboat",
+        "Atmosphere + Pirate ship"
+      ]
+    },
+    {
+      "element": "Safe",
+      "recipes": [
+        "Metal + Money",
+        "Metal + Gold",
+        "Steel + Money",
+        "Steel + Gold",
+        "Container + Gun",
+        "Container + Gold"
+      ]
+    },
+    {
+      "element": "Salt",
+      "recipes": [
+        "Sea + Sun",
+        "Sea + Fire",
+        "Sea + Mineral",
+        "Ocean + Sun",
+        "Ocean + Fire",
+        "Ocean + Mineral"
+      ]
+    },
+    {
+      "element": "Scissors",
+      "recipes": [
+        "Blade + Blade",
+        "Blade + Paper",
+        "Blade + Sword",
+        "Sword + Sword",
+        "Sword + Paper"
+      ]
+    },
+    {
+      "element": "Sky",
+      "recipes": [
+        "Air + Cloud",
+        "Sun + Atmosphere",
+        "Sun + Moon",
+        "Cloud + Atmosphere"
+      ]
+    },
+    {
+      "element": "Solar cell",
+      "recipes": [
+        "Sun + Tool",
+        "Sun + Machine",
+        "Sun + Electricity",
+        "Sun + Energy",
+        "Tool + Light"
+      ]
+    },
+    {
+      "element": "Sound",
+      "recipes": [
+        "Wave + Air",
+        "Wave + Human",
+        "Wave + Animal",
+        "Wave + Wolf"
+      ]
+    },
+    {
+      "element": "Space station",
+      "recipes": [
+        "Space + House",
+        "Space + Wall",
+        "Space + Village",
+        "Atmosphere + House",
+        "Atmosphere + Wall",
+        "Atmosphere + Village"
+      ]
+    },
+    {
+      "element": "Supernova",
+      "recipes": [
+        "Explosion + Star",
+        "Explosion + Sun",
+        "Explosion + Galaxy",
+        "Explosion + Space"
+      ]
+    },
+    {
+      "element": "Swimming pool",
+      "recipes": [
+        "House + Lake",
+        "House + Swimmer",
+        "Aquarium + Big"
+      ]
+    },
+    {
+      "element": "Sword",
+      "recipes": [
+        "Blade + Metal",
+        "Blade + Steel",
+        "Blade + Wood"
+      ]
+    },
+    {
+      "element": "Telescope",
+      "recipes": [
+        "Glass + Sky",
+        "Glass + Star",
+        "Glass + Space",
+        "Glass + Moon",
+        "Glass + Planet",
+        "Glass + Mars",
+        "Glass + Mercury",
+        "Glass + Venus",
+        "Glass + Saturn",
+        "Glass + Jupiter",
+        "Glass + Galaxy",
+        "Glass + Galaxy cluster",
+        "Glass + Universe",
+        "Glass + Supernova"
+      ]
+    },
+    {
+      "element": "Tide",
+      "recipes": [
+        "Ocean + Moon",
+        "Ocean + Time",
+        "Sea + Moon",
+        "Sea + Time"
+      ]
+    },
+    {
+      "element": "Tsunami",
+      "recipes": [
+        "Sea + Earthquake",
+        "Sea + Explosion",
+        "Sea + Meteor",
+        "Ocean + Earthquake",
+        "Ocean + Explosion",
+        "Ocean + Meteor"
+      ]
+    },
+    {
+      "element": "Village",
+      "recipes": [
+        "House + House",
+        "Family + Family",
+        "House + Container",
+        "House + Bakery",
+        "Bakery + Container"
+      ]
+    },
+    {
+      "element": "Windmill",
+      "recipes": [
+        "Wind + House",
+        "Wind + Wheel",
+        "Wind + Wheat",
+        "Wind + Flour",
+        "Wheel + Wall"
+      ]
+    }
+  ],
+  "Tier 6 elements": [
+    {
+      "element": "Acid rain",
+      "recipes": [
+        "Rain + Smoke",
+        "Rain + Smog",
+        "Rain + Sickness",
+        "Rain + City",
+        "Cloud + Smoke",
+        "Cloud + Smog",
+        "Cloud + Sickness"
+      ]
+    },
+    {
+      "element": "Archipelago",
+      "recipes": [
+        "Island + Island",
+        "Island + Sea",
+        "Island + Ocean"
+      ]
+    },
+    {
+      "element": "Barn",
+      "recipes": [
+        "House + Cow",
+        "House + Livestock",
+        "House + Hay",
+        "House + Farm",
+        "House + Field",
+        "House + Sheep",
+        "House + Goat",
+        "House + Babe the blue ox",
+        "Container + Livestock",
+        "Container + Cow",
+        "Container + Horse",
+        "Container + Pig",
+        "Container + Hay",
+        "Container + Sheep",
+        "Container + Hay bale",
+        "Container + Goat",
+        "Container + Babe the blue ox"
+      ]
+    },
+    {
+      "element": "Bayonet",
+      "recipes": [
+        "Gun + Blade",
+        "Gun + Sword",
+        "Gun + Axe"
+      ]
+    },
+    {
+      "element": "Bell",
+      "recipes": [
+        "Sound + Metal",
+        "Sound + Steel",
+        "Sound + Wood",
+        "Metal + Hammer",
+        "Steel + Hammer"
+      ]
+    },
+    {
+      "element": "Binoculars",
+      "recipes": [
+        "Telescope + Telescope",
+        "Glasses + Glasses"
+      ]
+    },
+    {
+      "element": "City",
+      "recipes": [
+        "Village + Village",
+        "Village + Skyscraper",
+        "Village + Big",
+        "Skyscraper + Skyscraper",
+        "Skyscraper + Container",
+        "Skyscraper + Bank",
+        "Skyscraper + Post office",
+        "Bank + Container",
+        "Bank + Post office"
+      ]
+    },
+    {
+      "element": "Day",
+      "recipes": [
+        "Sun + Sky",
+        "Sun + Night",
+        "Sun + Time",
+        "Time + Dawn"
+      ]
+    },
+    {
+      "element": "Double rainbow!",
+      "recipes": [
+        "Rainbow + Rainbow"
+      ]
+    },
+    {
+      "element": "Electricity",
+      "recipes": [
+        "Metal + Lightning",
+        "Steel + Lightning",
+        "Storm + Science",
+        "Wind turbine + Wind",
+        "Wind turbine + Motion",
+        "Wind turbine + Storm",
+        "Wind turbine + Sandstorm",
+        "Solar cell + Sun",
+        "Solar cell + Light",
+        "Solar cell + Star"
+      ]
+    },
+    {
+      "element": "Excalibur",
+      "recipes": [
+        "Sword + Stone",
+        "Sword + Legend",
+        "Sword + Story",
+        "Sword + Monarch",
+        "Sword + Lake",
+        "Sword + Fairy tale"
+      ]
+    },
+    {
+      "element": "Fence",
+      "recipes": [
+        "Wood + Wall",
+        "Wood + Field",
+        "Wood + Garden",
+        "Field + Wall",
+        "Grass + Wall",
+        "Garden + Wall"
+      ]
+    },
+    {
+      "element": "Flamethrower",
+      "recipes": [
+        "Gun + Fire",
+        "Gun + Campfire",
+        "Gun + Volcano"
+      ]
+    },
+    {
+      "element": "Fog",
+      "recipes": [
+        "Cloud + Earth",
+        "Cloud + Hill",
+        "Cloud + Mountain",
+        "Cloud + City",
+        "Cloud + Field",
+        "Cloud + Forest"
+      ]
+    },
+    {
+      "element": "Galaxy cluster",
+      "recipes": [
+        "Galaxy + Galaxy",
+        "Galaxy + Container"
+      ]
+    },
+    {
+      "element": "Hangar",
+      "recipes": [
+        "Airplane + Container",
+        "Airplane + House",
+        "Airplane + Wall",
+        "Airplane + Barn",
+        "Seaplane + Container",
+        "Seaplane + House",
+        "Seaplane + Wall",
+        "Seaplane + Barn",
+        "Helicopter + Container",
+        "Helicopter + House",
+        "Helicopter + Wall",
+        "Helicopter + Barn",
+        "Rocket + Container",
+        "Rocket + House",
+        "Rocket + Wall",
+        "Rocket + Barn",
+        "Spaceship + Container",
+        "Spaceship + House",
+        "Spaceship + Wall",
+        "Spaceship + Barn"
+      ]
+    },
+    {
+      "element": "Horizon",
+      "recipes": [
+        "Earth + Sky",
+        "Continent + Sky",
+        "Land + Sky",
+        "Lake + Sky",
+        "Ocean + Sky",
+        "Sea + Sky"
+      ]
+    },
+    {
+      "element": "Jupiter",
+      "recipes": [
+        "Planet + Cloud",
+        "Planet + Storm",
+        "Planet + Big",
+        "Planet + Gas",
+        "Planet + Zeus",
+        "Saturn + Big"
+      ]
+    },
+    {
+      "element": "Life",
+      "recipes": [
+        "Primordial soup + Electricity",
+        "Primordial soup + Time",
+        "Primordial soup + Storm",
+        "Primordial soup + Volcano",
+        "Primordial soup + Lightning",
+        "Primordial soup + Energy",
+        "Electricity + Ocean",
+        "Electricity + Sea",
+        "Electricity + Lake",
+        "Lightning + Ocean",
+        "Lightning + Sea",
+        "Lightning + Lake"
+      ]
+    },
+    {
+      "element": "Light sword",
+      "recipes": [
+        "Sword + Light",
+        "Sword + Electricity",
+        "Sword + Energy",
+        "Sword + Space",
+        "Sword + Force knight"
+      ]
+    },
+    {
+      "element": "Lightning",
+      "recipes": [
+        "Electricity + Cloud",
+        "Electricity + Storm",
+        "Electricity + Rain",
+        "Energy + Cloud",
+        "Energy + Storm",
+        "Energy + Rain",
+        "Land + Storm",
+        "Zeus + Tool",
+        "Cyclops + Tool"
+      ]
+    },
+    {
+      "element": "Meteor",
+      "recipes": [
+        "Meteoroid + Atmosphere",
+        "Meteoroid + Sky",
+        "Meteoroid + Air",
+        "Meteoroid + Night",
+        "Meteoroid + Day"
+      ]
+    },
+    {
+      "element": "Night",
+      "recipes": [
+        "Sky + Moon",
+        "Time + Moon",
+        "Time + Day",
+        "Time + Twilight"
+      ]
+    },
+    {
+      "element": "Paint",
+      "recipes": [
+        "Water + Rainbow",
+        "Water + Double rainbow!",
+        "Water + Pencil",
+        "Pottery + Rainbow",
+        "Pottery + Double rainbow!",
+        "Tool + Rainbow",
+        "Tool + Double rainbow!",
+        "Liquid + Rainbow",
+        "Liquid + Double rainbow!",
+        "Liquid + Pencil"
+      ]
+    },
+    {
+      "element": "Park",
+      "recipes": [
+        "City + Forest",
+        "City + Garden",
+        "City + Grass",
+        "City + Field",
+        "Village + Forest",
+        "Village + Garden",
+        "Village + Grass",
+        "Village + Field"
+      ]
+    },
+    {
+      "element": "Prism",
+      "recipes": [
+        "Glass + Rainbow",
+        "Glass + Double rainbow!",
+        "Crystal ball + Rainbow",
+        "Crystal ball + Double rainbow!"
+      ]
+    },
+    {
+      "element": "Rain",
+      "recipes": [
+        "Cloud + Heat",
+        "Cloud + Pressure",
+        "Cloud + Water"
+      ]
+    },
+    {
+      "element": "Ruins",
+      "recipes": [
+        "Time + Castle",
+        "Time + House",
+        "Time + Village",
+        "Time + City",
+        "Time + Skyscraper",
+        "Time + Hospital",
+        "Time + Farm"
+      ]
+    },
+    {
+      "element": "Safety glasses",
+      "recipes": [
+        "Glasses + Tool",
+        "Glasses + Explosion",
+        "Glasses + Engineer",
+        "Glasses + Bulletproof vest",
+        "Glasses + Armor"
+      ]
+    },
+    {
+      "element": "Skyscraper",
+      "recipes": [
+        "House + Sky",
+        "House + Big",
+        "House + Cloud",
+        "Village + Sky"
+      ]
+    },
+    {
+      "element": "Space",
+      "recipes": [
+        "Star + Sky",
+        "Star + Sun",
+        "Star + Moon",
+        "Solar system + Night",
+        "Solar system + Sky"
+      ]
+    },
+    {
+      "element": "Storm",
+      "recipes": [
+        "Cloud + Cloud",
+        "Electricity + Cloud",
+        "Electricity + Atmosphere",
+        "Rain + Wind"
+      ]
+    },
+    {
+      "element": "Stun gun",
+      "recipes": [
+        "Gun + Electricity",
+        "Gun + Wire",
+        "Gun + Energy",
+        "Bow + Electricity",
+        "Bow + Energy"
+      ]
+    },
+    {
+      "element": "Sunglasses",
+      "recipes": [
+        "Glasses + Sun",
+        "Glasses + Beach",
+        "Glasses + Day",
+        "Glasses + Sky",
+        "Glasses + Light"
+      ]
+    },
+    {
+      "element": "Swim goggles",
+      "recipes": [
+        "Glasses + Water",
+        "Glasses + Lake",
+        "Glasses + Sea",
+        "Glasses + Ocean",
+        "Glasses + River",
+        "Sunglasses + Water",
+        "Sunglasses + Lake",
+        "Sunglasses + Sea",
+        "Sunglasses + Ocean",
+        "Sunglasses + River"
+      ]
+    },
+    {
+      "element": "Water gun",
+      "recipes": [
+        "Gun + Water",
+        "Gun + Stream",
+        "Gun + Puddle"
+      ]
+    }
+  ],
+  "Tier 7 elements": [
+    {
+      "element": "Alien",
+      "recipes": [
+        "Life + Space",
+        "Life + Galaxy",
+        "Life + Galaxy cluster",
+        "Life + Solar system",
+        "Life + Mars",
+        "Life + Venus",
+        "Life + Mercury",
+        "Life + Saturn",
+        "Life + Jupiter"
+      ]
+    },
+    {
+      "element": "Animal",
+      "recipes": [
+        "Life + Land",
+        "Life + Forest",
+        "Life + Mountain",
+        "Life + Mountain range",
+        "Life + Beach",
+        "Life + Desert"
+      ]
+    },
+    {
+      "element": "Bacteria",
+      "recipes": [
+        "Life + Primordial soup",
+        "Life + Small",
+        "Life + Mud"
+      ]
+    },
+    {
+      "element": "Clock",
+      "recipes": [
+        "Time + Electricity",
+        "Time + Wheel",
+        "Time + Tool",
+        "Time + Machine",
+        "Sundial + Machine",
+        "Sundial + Tool",
+        "Sundial + Wheel",
+        "Sundial + Electricity",
+        "Cuckoo + Container",
+        "Watch + Big"
+      ]
+    },
+    {
+      "element": "Darkness",
+      "recipes": [
+        "Sky + Night",
+        "Sky + Twilight"
+      ]
+    },
+    {
+      "element": "Dawn",
+      "recipes": [
+        "Day + Night",
+        "Time + Night"
+      ]
+    },
+    {
+      "element": "Death",
+      "recipes": [
+        "Time + Life",
+        "Corpse + Philosophy",
+        "Skeleton + Philosophy",
+        "Grave + Philosophy",
+        "Graveyard + Philosophy"
+      ]
+    },
+    {
+      "element": "Farm",
+      "recipes": [
+        "Farmer + House",
+        "Farmer + Barn",
+        "Farmer + Container",
+        "House + Barn",
+        "House + Tractor"
+      ]
+    },
+    {
+      "element": "Human",
+      "recipes": [
+        "Time + Animal",
+        "Time + Monkey",
+        "Clay + Life",
+        "Tool + Animal",
+        "Tool + Monkey"
+      ]
+    },
+    {
+      "element": "Light bulb",
+      "recipes": [
+        "Glass + Electricity",
+        "Glass + Light",
+        "Light + Container"
+      ]
+    },
+    {
+      "element": "Magic",
+      "recipes": [
+        "Life + Rainbow",
+        "Life + Double rainbow!",
+        "Energy + Witch",
+        "Energy + Wizard"
+      ]
+    },
+    {
+      "element": "Ozone",
+      "recipes": [
+        "Oxygen + Oxygen",
+        "Electricity + Oxygen",
+        "Electricity + Atmosphere",
+        "Electricity + Air"
+      ]
+    },
+    {
+      "element": "Phoenix",
+      "recipes": [
+        "Fire + Bird",
+        "Fire + Life",
+        "Fire + Death",
+        "Fire + Egg"
+      ]
+    },
+    {
+      "element": "Plankton",
+      "recipes": [
+        "Water + Life",
+        "Ocean + Life",
+        "Sea + Life",
+        "Bacteria + Water",
+        "Bacteria + Ocean",
+        "Bacteria + Sea"
+      ]
+    },
+    {
+      "element": "Robot",
+      "recipes": [
+        "Life + Armor",
+        "Life + Metal",
+        "Life + Steel",
+        "Golem + Armor",
+        "Golem + Metal",
+        "Golem + Steel"
+      ]
+    },
+    {
+      "element": "Smog",
+      "recipes": [
+        "Smoke + Fog",
+        "City + Smoke",
+        "City + Fog",
+        "City + Atmosphere",
+        "City + Air"
+      ]
+    },
+    {
+      "element": "Snow",
+      "recipes": [
+        "Rain + Cold",
+        "Rain + Mountain",
+        "Rain + Mountain range",
+        "Steam + Cold"
+      ]
+    },
+    {
+      "element": "Soil",
+      "recipes": [
+        "Earth + Life",
+        "Earth + Organic matter",
+        "Land + Life",
+        "Land + Organic matter"
+      ]
+    },
+    {
+      "element": "Spaceship",
+      "recipes": [
+        "Space + Airplane",
+        "Space + Metal",
+        "Space + Steel",
+        "Space + Pirate ship",
+        "Space + Boat",
+        "Space + Steamboat",
+        "Space + Car",
+        "Astronaut + Container"
+      ]
+    },
+    {
+      "element": "Star",
+      "recipes": [
+        "Night + Sky",
+        "Night + Telescope",
+        "Space + Telescope",
+        "Sky + Space",
+        "Night + Space",
+        "Sun + Space"
+      ]
+    },
+    {
+      "element": "Twilight",
+      "recipes": [
+        "Day + Night",
+        "Day + Time"
+      ]
+    },
+    {
+      "element": "Universe",
+      "recipes": [
+        "Space + Container",
+        "Galaxy cluster + Galaxy cluster",
+        "Galaxy cluster + Container",
+        "Primordial soup + Cosmic egg"
+      ]
+    },
+    {
+      "element": "Wind turbine",
+      "recipes": [
+        "Windmill + Electricity",
+        "Windmill + Machine",
+        "Windmill + Electrician",
+        "Wind + Electricity"
+      ]
+    },
+    {
+      "element": "Wire",
+      "recipes": [
+        "Metal + Electricity",
+        "Metal + Rope",
+        "Steel + Electricity",
+        "Steel + Rope",
+        "Electricity + Rope"
+      ]
+    }
+  ],
+  "Tier 8 elements": [
+    {
+      "element": "Alarm clock",
+      "recipes": [
+        "Clock + Sound",
+        "Clock + Dawn",
+        "Clock + Bell",
+        "Watch + Sound",
+        "Watch + Dawn",
+        "Watch + Bell"
+      ]
+    },
+    {
+      "element": "Alchemist",
+      "recipes": [
+        "Human + Gold",
+        "Gold + Philosophy"
+      ]
+    },
+    {
+      "element": "Allergy",
+      "recipes": [
+        "Human + Dust",
+        "Human + Pollen"
+      ]
+    },
+    {
+      "element": "Antarctica",
+      "recipes": [
+        "Desert + Snow",
+        "Desert + Ice",
+        "Continent + Snow",
+        "Continent + Ice"
+      ]
+    },
+    {
+      "element": "Archeologist",
+      "recipes": [
+        "Ruins + Human",
+        "Ruins + Science"
+      ]
+    },
+    {
+      "element": "Astronaut",
+      "recipes": [
+        "Human + Space",
+        "Human + Spaceship",
+        "Human + Space station",
+        "Human + Rocket",
+        "Human + Moon",
+        "Human + Mars",
+        "Human + Solar system",
+        "Human + Mercury",
+        "Human + Jupiter",
+        "Human + Saturn",
+        "Human + Venus",
+        "Human + Moon rover"
+      ]
+    },
+    {
+      "element": "Astronomer",
+      "recipes": [
+        "Human + Telescope"
+      ]
+    },
+    {
+      "element": "Beaver",
+      "recipes": [
+        "Animal + Wood",
+        "Animal + Dam",
+        "Animal + River",
+        "Animal + Stream"
+      ]
+    },
+    {
+      "element": "Bird",
+      "recipes": [
+        "Animal + Sky",
+        "Animal + Air",
+        "Animal + Airplane",
+        "Egg + Sky",
+        "Egg + Air",
+        "Egg + Airplane",
+        "Time + Dinosaur",
+        "Time + Pterodactyl"
+      ]
+    },
+    {
+      "element": "Blizzard",
+      "recipes": [
+        "Snow + Storm",
+        "Snow + Hurricane",
+        "Snow + Tornado",
+        "Snow + Snow",
+        "Snow + Wind",
+        "Snow + Big"
+      ]
+    },
+    {
+      "element": "Blood",
+      "recipes": [
+        "Human + Blade",
+        "Warrior + Sword"
+      ]
+    },
+    {
+      "element": "Butterfly",
+      "recipes": [
+        "Animal + Flower",
+        "Animal + Garden",
+        "Animal + Rainbow",
+        "Animal + Double rainbow!"
+      ]
+    },
+    {
+      "element": "Cable car",
+      "recipes": [
+        "Mountain + Car",
+        "Mountain + Wire",
+        "Mountain + Rope",
+        "Mountain range + Car",
+        "Mountain range + Wire",
+        "Mountain range + Rope"
+      ]
+    },
+    {
+      "element": "Camel",
+      "recipes": [
+        "Desert + Horse",
+        "Desert + Animal",
+        "Desert + Livestock",
+        "Desert + Cow",
+        "Desert + Saddle",
+        "Desert + Horseshoe",
+        "Sand + Horse",
+        "Sand + Livestock",
+        "Sand + Cow",
+        "Dune + Animal",
+        "Dune + Horse",
+        "Dune + Livestock",
+        "Dune + Cow"
+      ]
+    },
+    {
+      "element": "Cat",
+      "recipes": [
+        "Animal + Milk",
+        "Animal + Coconut milk",
+        "Animal + Night"
+      ]
+    },
+    {
+      "element": "Chain",
+      "recipes": [
+        "Rope + Metal",
+        "Rope + Steel",
+        "Wire + Metal",
+        "Wire + Steel"
+      ]
+    },
+    {
+      "element": "Cold",
+      "recipes": [
+        "Human + Rain",
+        "Human + Mountain range",
+        "Human + Mountain",
+        "Human + Snow",
+        "Human + Wind",
+        "Human + Storm",
+        "Space + Thermometer"
+      ]
+    },
+    {
+      "element": "Constellation",
+      "recipes": [
+        "Star + Star"
+      ]
+    },
+    {
+      "element": "Corpse",
+      "recipes": [
+        "Human + Bullet",
+        "Human + Blade",
+        "Human + Death",
+        "Human + Grim reaper",
+        "Human + Time",
+        "Human + Explosion",
+        "Human + Arrow",
+        "Jiangshi + Mirror",
+        "Jiangshi + Peach of immortality"
+      ]
+    },
+    {
+      "element": "Crystal ball",
+      "recipes": [
+        "Glass + Witch",
+        "Glass + Wizard",
+        "Glass + Magic",
+        "Snow globe + Witch",
+        "Snow globe + Wizard",
+        "Snow globe + Magic"
+      ]
+    },
+    {
+      "element": "Cyborg",
+      "recipes": [
+        "Robot + Human",
+        "Robot + Engineer",
+        "Robot + Lumberjack",
+        "Robot + Sailor",
+        "Robot + Baker",
+        "Robot + Cook",
+        "Robot + Doctor",
+        "Robot + Farmer",
+        "Robot + Firefighter",
+        "Robot + Pilot",
+        "Robot + Astronaut",
+        "Robot + Electrician"
+      ]
+    },
+    {
+      "element": "Dew",
+      "recipes": [
+        "Grass + Fog",
+        "Grass + Water",
+        "Grass + Dawn",
+        "Plant + Fog",
+        "Plant + Dawn",
+        "Tree + Fog",
+        "Tree + Dawn",
+        "Water + Dawn",
+        "Fog + Dawn"
+      ]
+    },
+    {
+      "element": "Domestication",
+      "recipes": [
+        "Animal + Human",
+        "Animal + Farmer",
+        "Animal + Science",
+        "Farmer + Science"
+      ]
+    },
+    {
+      "element": "Dynamite",
+      "recipes": [
+        "Gunpowder + Wire",
+        "Gunpowder + Pipe",
+        "Gunpowder + Container"
+      ]
+    },
+    {
+      "element": "Egg",
+      "recipes": [
+        "Life + Container",
+        "Bird + Bird",
+        "Turtle + Turtle",
+        "Lizard + Lizard",
+        "Vulture + Vulture",
+        "Phoenix + Phoenix",
+        "Chicken + Chicken",
+        "Dragon + Dragon",
+        "Penguin + Penguin",
+        "Owl + Owl",
+        "Dinosaur + Dinosaur",
+        "Duck + Duck",
+        "Seagull + Seagull",
+        "Eagle + Eagle",
+        "Scorpion + Scorpion",
+        "Spider + Spider",
+        "Pigeon + Pigeon",
+        "Fish + Fish",
+        "Piranha + Piranha",
+        "Parrot + Parrot",
+        "Peacock + Peacock",
+        "Hummingbird + Hummingbird",
+        "Chameleon + Chameleon",
+        "Ostrich + Ostrich",
+        "Woodpecker + Woodpecker",
+        "Bee + Bee",
+        "Crow + Crow",
+        "Frog + Frog",
+        "Pterodactyl + Pterodactyl",
+        "Ant + Ant",
+        "Moth + Moth",
+        "Butterfly + Butterfly",
+        "Snake + Snake",
+        "Flying fish + Flying fish",
+        "Tyrannosaurus rex + Tyrannosaurus rex"
+      ]
+    },
+    {
+      "element": "Electrician",
+      "recipes": [
+        "Human + Electricity",
+        "Human + Wire"
+      ]
+    },
+    {
+      "element": "Family",
+      "recipes": [
+        "Human + Human",
+        "Human + House",
+        "Love + Container"
+      ]
+    },
+    {
+      "element": "Farmer",
+      "recipes": [
+        "Human + Plant",
+        "Human + Grass",
+        "Human + Pitchfork",
+        "Human + Field",
+        "Human + Barn",
+        "Human + Plow",
+        "Human + Orchard"
+      ]
+    },
+    {
+      "element": "Firefighter",
+      "recipes": [
+        "Human + Fire",
+        "Human + Firetruck",
+        "Human + Fire extinguisher"
+      ]
+    },
+    {
+      "element": "Fish",
+      "recipes": [
+        "Animal + Water",
+        "Animal + Sea",
+        "Animal + Ocean",
+        "Animal + Lake",
+        "Egg + Water",
+        "Egg + Sea",
+        "Egg + Ocean",
+        "Egg + Lake"
+      ]
+    },
+    {
+      "element": "Force knight",
+      "recipes": [
+        "Human + Light sword",
+        "Warrior + Light sword",
+        "Knight + Light sword"
+      ]
+    },
+    {
+      "element": "Frog",
+      "recipes": [
+        "Animal + Pond",
+        "Animal + Puddle",
+        "Egg + Pond",
+        "Egg + Puddle"
+      ]
+    },
+    {
+      "element": "Glacier",
+      "recipes": [
+        "Mountain + Ice",
+        "Mountain + Snow",
+        "Mountain range + Ice",
+        "Mountain range + Snow",
+        "Time + Ice"
+      ]
+    },
+    {
+      "element": "Gravestone",
+      "recipes": [
+        "Grave + Stone",
+        "Grave + Rock",
+        "Death + Stone",
+        "Death + Rock",
+        "Graveyard + Stone",
+        "Graveyard + Rock"
+      ]
+    },
+    {
+      "element": "Hacker",
+      "recipes": [
+        "Human + Computer",
+        "Human + Computer mouse",
+        "Human + Glasses",
+        "Human + Internet"
+      ]
+    },
+    {
+      "element": "Hero",
+      "recipes": [
+        "Human + Legend",
+        "Dragon + Knight",
+        "Human + Story",
+        "Human + Lightning"
+      ]
+    },
+    {
+      "element": "Horse",
+      "recipes": [
+        "Animal + Field",
+        "Animal + Horseshoe",
+        "Animal + Saddle",
+        "Animal + Land",
+        "Livestock + Hay",
+        "Livestock + Barn",
+        "Livestock + Horseshoe",
+        "Livestock + Saddle"
+      ]
+    },
+    {
+      "element": "Idea",
+      "recipes": [
+        "Human + Light bulb",
+        "Light bulb + Engineer",
+        "Light bulb + Science",
+        "Science + Science",
+        "Philosophy + Science",
+        "Engineer + Engineer",
+        "Hacker + Hacker",
+        "Lumberjack + Lumberjack",
+        "Farmer + Farmer",
+        "Firefighter + Firefighter",
+        "Electrician + Electrician",
+        "Astronaut + Astronaut",
+        "Warrior + Warrior",
+        "Butcher + Butcher",
+        "Doctor + Doctor",
+        "Pilot + Pilot",
+        "Baker + Baker",
+        "Sailor + Sailor",
+        "Surfer + Surfer",
+        "Swimmer + Swimmer",
+        "Cyclist + Cyclist",
+        "Knight + Knight",
+        "Monarch + Monarch",
+        "Angler + Angler",
+        "Mailman + Mailman",
+        "Gardener + Gardener",
+        "Philosophy + Philosophy",
+        "Skier + Skier",
+        "Diver + Diver",
+        "Librarian + Librarian",
+        "Alchemist + Alchemist"
+      ]
+    },
+    {
+      "element": "Igloo",
+      "recipes": [
+        "House + Ice",
+        "House + Cold",
+        "House + Snow",
+        "House + Snowman"
+      ]
+    },
+    {
+      "element": "Lamp",
+      "recipes": [
+        "Light bulb + Metal",
+        "Light bulb + Steel"
+      ]
+    },
+    {
+      "element": "Light",
+      "recipes": [
+        "Electricity + Light bulb",
+        "Electricity + Flashlight"
+      ]
+    },
+    {
+      "element": "Livestock",
+      "recipes": [
+        "Animal + Field",
+        "Animal + Farmer",
+        "Animal + Barn",
+        "Animal + Domestication"
+      ]
+    },
+    {
+      "element": "Lizard",
+      "recipes": [
+        "Stone + Animal",
+        "Rock + Animal",
+        "Swamp + Animal",
+        "Heat + Animal",
+        "Egg + Stone",
+        "Egg + Rock",
+        "Egg + Swamp",
+        "Dinosaur + Small",
+        "Blood + Cold"
+      ]
+    },
+    {
+      "element": "Love",
+      "recipes": [
+        "Human + Human",
+        "Cupid + Bow",
+        "Cupid + Arrow"
+      ]
+    },
+    {
+      "element": "Meat",
+      "recipes": [
+        "Tool + Livestock",
+        "Tool + Chicken",
+        "Tool + Pig",
+        "Tool + Cow",
+        "Tool + Animal",
+        "Tool + Fish",
+        "Tool + Swordfish",
+        "Tool + Flying fish",
+        "Tool + Shark",
+        "Tool + Frog",
+        "Axe + Livestock",
+        "Axe + Chicken",
+        "Axe + Pig",
+        "Axe + Cow",
+        "Axe + Animal",
+        "Axe + Fish",
+        "Axe + Swordfish",
+        "Axe + Flying fish",
+        "Axe + Shark",
+        "Axe + Frog",
+        "Sword + Livestock",
+        "Sword + Chicken",
+        "Sword + Pig",
+        "Sword + Cow",
+        "Sword + Animal",
+        "Sword + Shark",
+        "Butcher + Livestock",
+        "Butcher + Chicken",
+        "Butcher + Pig",
+        "Butcher + Cow",
+        "Butcher + Animal",
+        "Butcher + Fish",
+        "Butcher + Swordfish",
+        "Butcher + Flying fish",
+        "Butcher + Shark",
+        "Butcher + Frog",
+        "Net + Fish",
+        "Net + Swordfish",
+        "Net + Shark",
+        "Net + Piranha",
+        "Net + Flying fish"
+      ]
+    },
+    {
+      "element": "Microscope",
+      "recipes": [
+        "Bacteria + Glass",
+        "Bacteria + Glasses",
+        "Bacteria + Safety glasses",
+        "Bacteria + Lens",
+        "Tool + Lens"
+      ]
+    },
+    {
+      "element": "Monarch",
+      "recipes": [
+        "Human + Castle",
+        "Human + Excalibur"
+      ]
+    },
+    {
+      "element": "Mummy",
+      "recipes": [
+        "Pyramid + Corpse",
+        "Pyramid + Fabric",
+        "Pyramid + Human",
+        "Corpse + Fabric",
+        "Corpse + Book of the dead",
+        "Human + Book of the dead"
+      ]
+    },
+    {
+      "element": "Organic matter",
+      "recipes": [
+        "Life + Death",
+        "Life + Science",
+        "Bacteria + Death",
+        "Corpse + Science"
+      ]
+    },
+    {
+      "element": "Painter",
+      "recipes": [
+        "Human + Canvas",
+        "Human + Paint",
+        "Human + Painting"
+      ]
+    },
+    {
+      "element": "Pig",
+      "recipes": [
+        "Mud + Livestock",
+        "Mud + Animal",
+        "Mud + Cow"
+      ]
+    },
+    {
+      "element": "Plant",
+      "recipes": [
+        "Tree + Small",
+        "Seed + Water",
+        "Seed + Soil",
+        "Seed + Land",
+        "Seed + Earth",
+        "Grass + Big",
+        "Algae + Land",
+        "Algae + Earth",
+        "Life + Soil",
+        "Rain + Soil"
+      ]
+    },
+    {
+      "element": "Potter",
+      "recipes": [
+        "Human + Clay",
+        "Human + Pottery"
+      ]
+    },
+    {
+      "element": "Sailor",
+      "recipes": [
+        "Human + Boat",
+        "Human + Sailboat",
+        "Human + Steamboat",
+        "Human + Sea",
+        "Human + Ocean",
+        "Human + Lake"
+      ]
+    },
+    {
+      "element": "Samurai",
+      "recipes": [
+        "Human + Katana"
+      ]
+    },
+    {
+      "element": "Science",
+      "recipes": [
+        "Human + Telescope",
+        "Human + Microscope",
+        "Human + Universe"
+      ]
+    },
+    {
+      "element": "Scorpion",
+      "recipes": [
+        "Animal + Sand",
+        "Animal + Dune",
+        "Spider + Sand",
+        "Spider + Dune",
+        "Spider + Desert"
+      ]
+    },
+    {
+      "element": "Shuriken",
+      "recipes": [
+        "Star + Blade",
+        "Star + Sword",
+        "Star + Metal",
+        "Star + Steel",
+        "Ninja + Blade"
+      ]
+    },
+    {
+      "element": "Sickness",
+      "recipes": [
+        "Human + Bacteria",
+        "Human + Swamp",
+        "Human + Sickness"
+      ]
+    },
+    {
+      "element": "Ski goggles",
+      "recipes": [
+        "Snow + Glasses",
+        "Snow + Sunglasses",
+        "Cold + Glasses",
+        "Cold + Sunglasses",
+        "Glacier + Glasses",
+        "Glacier + Sunglasses",
+        "Skier + Glasses",
+        "Skier + Sunglasses"
+      ]
+    },
+    {
+      "element": "Skier",
+      "recipes": [
+        "Human + Ski goggles",
+        "Human + Mountain",
+        "Human + Mountain range"
+      ]
+    },
+    {
+      "element": "Sloth",
+      "recipes": [
+        "Animal + Time",
+        "Tree + Manatee"
+      ]
+    },
+    {
+      "element": "Snake",
+      "recipes": [
+        "Animal + Rope",
+        "Animal + Wire",
+        "Electric eel + Land"
+      ]
+    },
+    {
+      "element": "Snow globe",
+      "recipes": [
+        "Crystal ball + Ice",
+        "Crystal ball + Cold",
+        "Crystal ball + Snow",
+        "Crystal ball + Snowman",
+        "Crystal ball + Snowball",
+        "Crystal ball + Snowmobile",
+        "Crystal ball + Santa",
+        "Crystal ball + Christmas tree",
+        "Crystal ball + Christmas stocking",
+        "Crystal ball + Blizzard",
+        "Glass + Snow",
+        "Glass + Snowman",
+        "Glass + Snowball",
+        "Glass + Snowmobile",
+        "Glass + Santa",
+        "Glass + Christmas tree",
+        "Glass + Christmas stocking",
+        "Glass + Blizzard"
+      ]
+    },
+    {
+      "element": "Snowball",
+      "recipes": [
+        "Snow + Human",
+        "Snow + Stone",
+        "Snow + Rock",
+        "Snow + Earth"
+      ]
+    },
+    {
+      "element": "Snowman",
+      "recipes": [
+        "Snow + Human",
+        "Snow + Carrot",
+        "Snow + Coal",
+        "Snowball + Carrot",
+        "Snowball + Coal",
+        "Snowball + Snowball"
+      ]
+    },
+    {
+      "element": "Starfish",
+      "recipes": [
+        "Star + Fish",
+        "Star + Ocean",
+        "Star + Sea"
+      ]
+    },
+    {
+      "element": "Sundial",
+      "recipes": [
+        "Sun + Wheel",
+        "Sun + Tool",
+        "Sun + Clock",
+        "Sun + Watch",
+        "Light + Wheel",
+        "Light + Tool",
+        "Light + Clock",
+        "Light + Watch",
+        "Day + Wheel",
+        "Day + Tool"
+      ]
+    },
+    {
+      "element": "Surfer",
+      "recipes": [
+        "Human + Wave",
+        "Human + Beach"
+      ]
+    },
+    {
+      "element": "Swimmer",
+      "recipes": [
+        "Human + Water",
+        "Human + Swim goggles",
+        "Human + Pond",
+        "Human + Swimming pool"
+      ]
+    },
+    {
+      "element": "Tool",
+      "recipes": [
+        "Human + Metal",
+        "Human + Steel",
+        "Human + Wood",
+        "Human + Stone",
+        "Human + Rock",
+        "Wood + Metal",
+        "Wood + Steel",
+        "Wood + Stone",
+        "Wood + Rock"
+      ]
+    },
+    {
+      "element": "Turtle",
+      "recipes": [
+        "Egg + Sand",
+        "Egg + Beach",
+        "Animal + Beach"
+      ]
+    },
+    {
+      "element": "Ufo",
+      "recipes": [
+        "Alien + Rocket",
+        "Alien + Airplane",
+        "Alien + Spaceship",
+        "Alien + Space station",
+        "Alien + Sky",
+        "Alien + Container"
+      ]
+    },
+    {
+      "element": "Warrior",
+      "recipes": [
+        "Human + Sword",
+        "Human + Bow"
+      ]
+    },
+    {
+      "element": "Watch",
+      "recipes": [
+        "Clock + Human",
+        "Clock + Small"
+      ]
+    },
+    {
+      "element": "Wizard",
+      "recipes": [
+        "Human + Magic",
+        "Human + Unicorn",
+        "Human + Rainbow",
+        "Human + Double rainbow!"
+      ]
+    },
+    {
+      "element": "Wolf",
+      "recipes": [
+        "Animal + Moon",
+        "Animal + Dog",
+        "Dog + Forest",
+        "Dog + Blood"
+      ]
+    }
+  ],
+  "Tier 9 elements": [
+    {
+      "element": "Airplane",
+      "recipes": [
+        "Bird + Metal",
+        "Bird + Steel",
+        "Bird + Machine",
+        "Bird + Steam engine",
+        "Bird + Train",
+        "Bird + Car",
+        "Bird + Boat",
+        "Bird + Steamboat",
+        "Bird + Sailboat",
+        "Owl + Metal",
+        "Owl + Steel",
+        "Owl + Machine",
+        "Owl + Steam engine",
+        "Vulture + Metal",
+        "Vulture + Steel",
+        "Vulture + Machine",
+        "Duck + Metal",
+        "Duck + Steel",
+        "Duck + Machine",
+        "Seagull + Metal",
+        "Seagull + Steel",
+        "Seagull + Machine",
+        "Bat + Metal",
+        "Bat + Steel",
+        "Bat + Machine",
+        "Eagle + Metal",
+        "Eagle + Steel",
+        "Eagle + Machine",
+        "Pigeon + Metal",
+        "Pigeon + Steel",
+        "Pigeon + Machine",
+        "Hummingbird + Metal",
+        "Hummingbird + Steel",
+        "Hummingbird + Machine",
+        "Crow + Metal",
+        "Crow + Steel",
+        "Crow + Machine",
+        "Pilot + Container"
+      ]
+    },
+    {
+      "element": "Algae",
+      "recipes": [
+        "Water + Plant",
+        "Water + Grass",
+        "Grass + Pond",
+        "Grass + Lake"
+      ]
+    },
+    {
+      "element": "Alligator",
+      "recipes": [
+        "Lizard + Swamp",
+        "Lizard + River",
+        "Lizard + Lake"
+      ]
+    },
+    {
+      "element": "Angel",
+      "recipes": [
+        "Human + Bird",
+        "Human + Light",
+        "Human + Heaven",
+        "Human + Good",
+        "Good + Demon",
+        "Good + Deity"
+      ]
+    },
+    {
+      "element": "Arctic",
+      "recipes": [
+        "Cold + Sea",
+        "Cold + Ocean"
+      ]
+    },
+    {
+      "element": "Ash",
+      "recipes": [
+        "Fire + Mineral",
+        "Fire + Plant",
+        "Fire + Tree",
+        "Fire + Grass",
+        "Fire + Paper",
+        "Campfire + Water",
+        "Campfire + Time",
+        "Campfire + Rain",
+        "Campfire + Paper",
+        "Vampire + Sun",
+        "Vampire + Dawn",
+        "Vampire + Holy grail",
+        "Vampire + Holy water"
+      ]
+    },
+    {
+      "element": "Bacon",
+      "recipes": [
+        "Pig + Fire",
+        "Pig + Campfire",
+        "Ham + Fire",
+        "Ham + Campfire"
+      ]
+    },
+    {
+      "element": "Birdcage",
+      "recipes": [
+        "Bird + Container",
+        "Bird + Safe",
+        "Bird + Wall",
+        "Bird + Cage"
+      ]
+    },
+    {
+      "element": "Birdhouse",
+      "recipes": [
+        "Bird + House",
+        "Bird + Wall",
+        "Egg + Container"
+      ]
+    },
+    {
+      "element": "Bone",
+      "recipes": [
+        "Time + Corpse",
+        "Vulture + Corpse",
+        "Vulture + Meat",
+        "Wolf + Corpse",
+        "Wolf + Meat"
+      ]
+    },
+    {
+      "element": "Butcher",
+      "recipes": [
+        "Human + Meat",
+        "Human + Ham"
+      ]
+    },
+    {
+      "element": "Cactus",
+      "recipes": [
+        "Sand + Plant",
+        "Sand + Tree",
+        "Desert + Plant",
+        "Desert + Tree"
+      ]
+    },
+    {
+      "element": "Cage",
+      "recipes": [
+        "Wolf + Metal",
+        "Wolf + Steel",
+        "Wolf + Wall",
+        "Fox + Metal",
+        "Fox + Steel",
+        "Fox + Wall",
+        "Lion + Metal",
+        "Lion + Steel",
+        "Lion + Wall",
+        "Hamster + Container",
+        "Hamster + House",
+        "Hamster + Wall"
+      ]
+    },
+    {
+      "element": "Carbon dioxide",
+      "recipes": [
+        "Human + Oxygen",
+        "Animal + Oxygen",
+        "Fish + Oxygen",
+        "Bird + Oxygen",
+        "Plant + Night",
+        "Tree + Night",
+        "Grass + Night"
+      ]
+    },
+    {
+      "element": "Carrot",
+      "recipes": [
+        "Vegetable + Snowman",
+        "Vegetable + Grass",
+        "Vegetable + Garden",
+        "Snowman + Sun"
+      ]
+    },
+    {
+      "element": "Castle",
+      "recipes": [
+        "Knight + Stone",
+        "Knight + Wall",
+        "Knight + House",
+        "Knight + Container",
+        "Warrior + Stone",
+        "Warrior + Wall",
+        "Warrior + House",
+        "Vampire + House",
+        "Vampire + Wall",
+        "Monarch + Container",
+        "Monarch + House",
+        "Monarch + Wall",
+        "Paladin + Stone",
+        "Paladin + Wall",
+        "Paladin + House",
+        "Paladin + Container"
+      ]
+    },
+    {
+      "element": "Catnip",
+      "recipes": [
+        "Cat + Plant",
+        "Cat + Grass",
+        "Cat + Flower",
+        "Baast + Plant"
+      ]
+    },
+    {
+      "element": "Cave",
+      "recipes": [
+        "House + Wolf",
+        "House + Lion",
+        "House + Fox",
+        "House + Bat",
+        "Container + Wolf",
+        "Container + Lion",
+        "Container + Fox",
+        "Container + Bat"
+      ]
+    },
+    {
+      "element": "Centaur",
+      "recipes": [
+        "Horse + Human",
+        "Horse + Story"
+      ]
+    },
+    {
+      "element": "Chameleon",
+      "recipes": [
+        "Lizard + Rainbow",
+        "Lizard + Double rainbow!",
+        "Snake + Rainbow",
+        "Snake + Double rainbow!",
+        "Turtle + Rainbow",
+        "Turtle + Double rainbow!"
+      ]
+    },
+    {
+      "element": "Charcoal",
+      "recipes": [
+        "Fire + Wood",
+        "Fire + Tree",
+        "Fire + Corpse",
+        "Fire + Organic matter"
+      ]
+    },
+    {
+      "element": "Chicken",
+      "recipes": [
+        "Bird + Domestication",
+        "Bird + Livestock",
+        "Bird + Farmer",
+        "Bird + Farm",
+        "Bird + Barn",
+        "Egg + Domestication",
+        "Egg + Livestock",
+        "Egg + Farmer",
+        "Egg + Barn",
+        "Egg + Farm"
+      ]
+    },
+    {
+      "element": "Chill",
+      "recipes": [
+        "Air + Cold",
+        "Human + Cold",
+        "Human + Ice"
+      ]
+    },
+    {
+      "element": "Coal",
+      "recipes": [
+        "Pressure + Organic matter",
+        "Earth + Peat",
+        "Stone + Peat",
+        "Rock + Peat",
+        "Time + Peat",
+        "Pressure + Peat"
+      ]
+    },
+    {
+      "element": "Computer",
+      "recipes": [
+        "Hacker + Tool",
+        "Hacker + Electricity",
+        "Hacker + Wire",
+        "Hacker + Machine",
+        "Email + Container"
+      ]
+    },
+    {
+      "element": "Cotton",
+      "recipes": [
+        "Plant + Cloud",
+        "Plant + Fabric",
+        "Plant + Thread",
+        "Plant + Wool",
+        "Plant + Sheep"
+      ]
+    },
+    {
+      "element": "Cow",
+      "recipes": [
+        "Livestock + Barn",
+        "Livestock + Field",
+        "Livestock + Farmer",
+        "Livestock + Grass"
+      ]
+    },
+    {
+      "element": "Crow",
+      "recipes": [
+        "Bird + Scarecrow",
+        "Bird + Field",
+        "Pigeon + Scarecrow",
+        "Pigeon + Field",
+        "Owl + Scarecrow",
+        "Owl + Field",
+        "Hummingbird + Scarecrow",
+        "Hummingbird + Field"
+      ]
+    },
+    {
+      "element": "Cuckoo",
+      "recipes": [
+        "Bird + Clock",
+        "Bird + Alarm clock",
+        "Owl + Clock",
+        "Owl + Alarm clock",
+        "Hummingbird + Clock",
+        "Hummingbird + Alarm clock"
+      ]
+    },
+    {
+      "element": "Dinosaur",
+      "recipes": [
+        "Lizard + Time",
+        "Lizard + Big"
+      ]
+    },
+    {
+      "element": "Dog",
+      "recipes": [
+        "Wolf + Domestication",
+        "Wolf + Farmer",
+        "Wolf + Farm",
+        "Wolf + Barn",
+        "Wolf + Field",
+        "Wolf + Bone",
+        "Wolf + Campfire"
+      ]
+    },
+    {
+      "element": "Don quixote",
+      "recipes": [
+        "Windmill + Knight",
+        "Windmill + Story",
+        "Windmill + Legend",
+        "Windmill + Hero"
+      ]
+    },
+    {
+      "element": "Dragon",
+      "recipes": [
+        "Lizard + Fire",
+        "Lizard + Air",
+        "Lizard + Sky",
+        "Lizard + Airplane",
+        "Lizard + Story",
+        "Lizard + Legend",
+        "Dinosaur + Monster"
+      ]
+    },
+    {
+      "element": "Duck",
+      "recipes": [
+        "Bird + Water",
+        "Bird + Pond",
+        "Bird + Lake",
+        "Duckling + Time",
+        "Duckling + Big",
+        "Owl + Water",
+        "Owl + Pond",
+        "Owl + Lake",
+        "Pigeon + Water",
+        "Pigeon + Pond",
+        "Pigeon + Lake",
+        "Chicken + Water",
+        "Chicken + Pond",
+        "Chicken + Lake"
+      ]
+    },
+    {
+      "element": "Eagle",
+      "recipes": [
+        "Bird + Mountain",
+        "Bird + Mountain range"
+      ]
+    },
+    {
+      "element": "Egg timer",
+      "recipes": [
+        "Egg + Clock",
+        "Egg + Alarm clock",
+        "Egg + Watch"
+      ]
+    },
+    {
+      "element": "Electric eel",
+      "recipes": [
+        "Fish + Electricity"
+      ]
+    },
+    {
+      "element": "Family tree",
+      "recipes": [
+        "Tree + Family",
+        "Tree + Village",
+        "Time + Family"
+      ]
+    },
+    {
+      "element": "Firestation",
+      "recipes": [
+        "House + Firefighter",
+        "House + Firetruck",
+        "Firefighter + Land",
+        "Firefighter + Village",
+        "Firefighter + City"
+      ]
+    },
+    {
+      "element": "Fishing rod",
+      "recipes": [
+        "Fish + Tool",
+        "Fish + Wood",
+        "Fish + Wire",
+        "Fish + Thread",
+        "Swordfish + Tool",
+        "Swordfish + Wood",
+        "Swordfish + Wire",
+        "Swordfish + Thread",
+        "Piranha + Tool",
+        "Piranha + Wood",
+        "Piranha + Wire",
+        "Piranha + Thread"
+      ]
+    },
+    {
+      "element": "Flashlight",
+      "recipes": [
+        "Tool + Light",
+        "Tool + Light bulb",
+        "Tool + Lamp",
+        "Human + Lamp"
+      ]
+    },
+    {
+      "element": "Flower",
+      "recipes": [
+        "Plant + Garden",
+        "Plant + Rainbow",
+        "Plant + Double rainbow!",
+        "Grass + Garden",
+        "Grass + Seed",
+        "Grass + Rainbow",
+        "Grass + Double rainbow!",
+        "Garden + Seed"
+      ]
+    },
+    {
+      "element": "Flying fish",
+      "recipes": [
+        "Fish + Bird",
+        "Fish + Sky",
+        "Fish + Air"
+      ]
+    },
+    {
+      "element": "Fossil",
+      "recipes": [
+        "Dinosaur + Earth",
+        "Dinosaur + Stone",
+        "Dinosaur + Rock",
+        "Dinosaur + Time",
+        "Bone + Time",
+        "Bone + Earth",
+        "Bone + Stone",
+        "Bone + Rock",
+        "Corpse + Stone",
+        "Corpse + Rock",
+        "Grave + Time",
+        "Skeleton + Earth",
+        "Skeleton + Stone",
+        "Skeleton + Rock",
+        "Skeleton + Time"
+      ]
+    },
+    {
+      "element": "Frankenstein's monster",
+      "recipes": [
+        "Corpse + Legend",
+        "Corpse + Lightning",
+        "Corpse + Electricity",
+        "Corpse + Story",
+        "Zombie + Electricity",
+        "Zombie + Lightning",
+        "Monster + Story",
+        "Monster + Corpse"
+      ]
+    },
+    {
+      "element": "Fridge",
+      "recipes": [
+        "Cold + Metal",
+        "Cold + Steel",
+        "Cold + Machine",
+        "Cold + Electricity",
+        "Cold + Container",
+        "Ice + Metal",
+        "Ice + Steel",
+        "Ice + Container",
+        "Ice cream + Container"
+      ]
+    },
+    {
+      "element": "Garden",
+      "recipes": [
+        "Plant + Grass",
+        "Plant + House",
+        "Plant + Lawn",
+        "Flower + Flower",
+        "Flower + Grass",
+        "Flower + Plant",
+        "Flower + House",
+        "Flower + Lawn",
+        "Flower + Container"
+      ]
+    },
+    {
+      "element": "Gas",
+      "recipes": [
+        "Air + Idea",
+        "Air + Science",
+        "Energy + Liquid"
+      ]
+    },
+    {
+      "element": "Ghost",
+      "recipes": [
+        "Graveyard + Night",
+        "Graveyard + Story",
+        "Graveyard + Legend",
+        "Graveyard + Curse",
+        "Grave + Night",
+        "Grave + Story",
+        "Grave + Legend",
+        "Grave + Curse",
+        "Gravestone + Night",
+        "Gravestone + Legend",
+        "Gravestone + Story",
+        "Castle + Night",
+        "Night + Story",
+        "Night + Legend"
+      ]
+    },
+    {
+      "element": "Goat",
+      "recipes": [
+        "Livestock + Mountain",
+        "Livestock + Mountain range",
+        "Livestock + Hill",
+        "Cow + Mountain",
+        "Cow + Mountain range",
+        "Cow + Hill"
+      ]
+    },
+    {
+      "element": "Grass",
+      "recipes": [
+        "Plant + Earth",
+        "Plant + Land"
+      ]
+    },
+    {
+      "element": "Grave",
+      "recipes": [
+        "Earth + Coffin",
+        "Earth + Corpse",
+        "Field + Coffin",
+        "Field + Corpse",
+        "Forest + Corpse",
+        "Forest + Coffin",
+        "Gravestone + Grave",
+        "Gravestone + Coffin",
+        "Coffin + Container"
+      ]
+    },
+    {
+      "element": "Graveyard",
+      "recipes": [
+        "Grave + Grave",
+        "Grave + Field",
+        "Grave + Land",
+        "Gravestone + Gravestone",
+        "Gravestone + Field",
+        "Gravestone + Land",
+        "Gravestone + Container"
+      ]
+    },
+    {
+      "element": "Greenhouse",
+      "recipes": [
+        "Glass + Plant",
+        "Glass + Grass",
+        "Glass + Tree",
+        "Glass + Garden",
+        "Aquarium + Plant",
+        "Aquarium + Tree",
+        "Aquarium + Grass",
+        "Plant + Container"
+      ]
+    },
+    {
+      "element": "Ham",
+      "recipes": [
+        "Smoke + Meat",
+        "Smoke + Pig"
+      ]
+    },
+    {
+      "element": "Hammer",
+      "recipes": [
+        "Tool + Metal",
+        "Tool + Steel",
+        "Tool + Stone",
+        "Tool + Rock",
+        "Tool + Woodpecker"
+      ]
+    },
+    {
+      "element": "Hedge",
+      "recipes": [
+        "Plant + Fence",
+        "Leaf + Fence",
+        "Garden + Fence",
+        "Plant + Wall",
+        "Leaf + Wall",
+        "Garden + Wall"
+      ]
+    },
+    {
+      "element": "Hippo",
+      "recipes": [
+        "Horse + River",
+        "Horse + Water",
+        "Cow + River",
+        "Cow + Water"
+      ]
+    },
+    {
+      "element": "Horseshoe",
+      "recipes": [
+        "Horse + Metal",
+        "Horse + Steel"
+      ]
+    },
+    {
+      "element": "Hospital",
+      "recipes": [
+        "House + Sickness",
+        "House + Ambulance",
+        "House + Doctor",
+        "Wall + Sickness",
+        "Wall + Ambulance",
+        "Wall + Doctor",
+        "Doctor + Container"
+      ]
+    },
+    {
+      "element": "Hummingbird",
+      "recipes": [
+        "Bird + Flower",
+        "Bird + Garden",
+        "Bird + Small",
+        "Bird + Bee",
+        "Bird + Butterfly",
+        "Flower + Owl",
+        "Flower + Pigeon",
+        "Flower + Seagull",
+        "Garden + Owl",
+        "Garden + Pigeon",
+        "Garden + Seagull"
+      ]
+    },
+    {
+      "element": "Ice",
+      "recipes": [
+        "Water + Cold",
+        "Water + Solid",
+        "Puddle + Cold",
+        "Puddle + Solid"
+      ]
+    },
+    {
+      "element": "Iceberg",
+      "recipes": [
+        "Sea + Ice",
+        "Sea + Antarctica",
+        "Sea + Arctic",
+        "Ocean + Ice",
+        "Ocean + Antarctica",
+        "Ocean + Arctic"
+      ]
+    },
+    {
+      "element": "Ivy",
+      "recipes": [
+        "Plant + Wall",
+        "Grass + Wall"
+      ]
+    },
+    {
+      "element": "Jerky",
+      "recipes": [
+        "Meat + Sun",
+        "Steak + Sun",
+        "Meat + Heat",
+        "Steak + Heat"
+      ]
+    },
+    {
+      "element": "Knight",
+      "recipes": [
+        "Human + Armor",
+        "Warrior + Armor",
+        "Warrior + Hero",
+        "Warrior + Horse"
+      ]
+    },
+    {
+      "element": "Lava lamp",
+      "recipes": [
+        "Lamp + Lava",
+        "Lamp + Fire",
+        "Lamp + Volcano"
+      ]
+    },
+    {
+      "element": "Leather",
+      "recipes": [
+        "Blade + Cow",
+        "Blade + Pig",
+        "Blade + Sheep",
+        "Sword + Cow",
+        "Sword + Pig",
+        "Sword + Sheep",
+        "Tool + Cow",
+        "Tool + Pig",
+        "Tool + Sheep"
+      ]
+    },
+    {
+      "element": "Lens",
+      "recipes": [
+        "Glass + Tool",
+        "Glass + Engineer"
+      ]
+    },
+    {
+      "element": "Lighthouse",
+      "recipes": [
+        "Light + House",
+        "Light + Ocean",
+        "Light + Sea",
+        "Light + Beach",
+        "Spotlight + House",
+        "Spotlight + Ocean",
+        "Spotlight + Sea",
+        "Spotlight + Beach"
+      ]
+    },
+    {
+      "element": "Lion",
+      "recipes": [
+        "Cat + Animal",
+        "Cat + Blood",
+        "Cat + Big",
+        "Cat + Monarch"
+      ]
+    },
+    {
+      "element": "Liquid",
+      "recipes": [
+        "Water + Science",
+        "Water + Idea",
+        "Energy + Solid"
+      ]
+    },
+    {
+      "element": "Machine",
+      "recipes": [
+        "Tool + Wheel",
+        "Tool + Tool",
+        "Tool + Chain",
+        "Tool + Engineer",
+        "Boiler + Wheel",
+        "Boiler + Tool",
+        "Boiler + Chain"
+      ]
+    },
+    {
+      "element": "Magma",
+      "recipes": [
+        "Lava + Science",
+        "Volcano + Science"
+      ]
+    },
+    {
+      "element": "Medusa",
+      "recipes": [
+        "Snake + Human",
+        "Snake + Story",
+        "Snake + Legend",
+        "Snake + Hero"
+      ]
+    },
+    {
+      "element": "Mermaid",
+      "recipes": [
+        "Fish + Human",
+        "Fish + Legend",
+        "Fish + Magic",
+        "Fish + Swimmer",
+        "Fish + Selkie",
+        "Swimmer + Magic"
+      ]
+    },
+    {
+      "element": "Mineral",
+      "recipes": [
+        "Organic matter + Stone",
+        "Organic matter + Rock",
+        "Organic matter + Earth",
+        "Organic matter + Boulder",
+        "Organic matter + Hill",
+        "Organic matter + Mountain"
+      ]
+    },
+    {
+      "element": "Moss",
+      "recipes": [
+        "Stone + Plant",
+        "Stone + Grass",
+        "Stone + Algae",
+        "Rock + Plant",
+        "Rock + Grass",
+        "Rock + Algae",
+        "Boulder + Plant",
+        "Boulder + Grass",
+        "Boulder + Algae"
+      ]
+    },
+    {
+      "element": "Moth",
+      "recipes": [
+        "Butterfly + Moon",
+        "Butterfly + Night",
+        "Butterfly + Candle",
+        "Butterfly + Light",
+        "Butterfly + Lamp",
+        "Butterfly + Flashlight"
+      ]
+    },
+    {
+      "element": "Motion",
+      "recipes": [
+        "Wind + Science",
+        "Wind + Idea",
+        "Wind + Philosophy",
+        "Tornado + Science",
+        "Tornado + Philosophy",
+        "Stream + Science",
+        "Stream + Philosophy",
+        "River + Science",
+        "River + Philosophy"
+      ]
+    },
+    {
+      "element": "Nest",
+      "recipes": [
+        "Bird + Tree",
+        "Bird + Hay",
+        "Bird + Grass",
+        "Bird + House",
+        "Egg + Hay",
+        "Egg + Tree",
+        "Egg + Grass",
+        "Egg + Container"
+      ]
+    },
+    {
+      "element": "Ninja",
+      "recipes": [
+        "Human + Shuriken"
+      ]
+    },
+    {
+      "element": "Ninja turtle",
+      "recipes": [
+        "Turtle + Ninja",
+        "Turtle + Shuriken",
+        "Turtle + Katana"
+      ]
+    },
+    {
+      "element": "Omelette",
+      "recipes": [
+        "Egg + Fire",
+        "Egg + Heat",
+        "Egg + Tool"
+      ]
+    },
+    {
+      "element": "Optical fiber",
+      "recipes": [
+        "Wire + Light",
+        "Rope + Light",
+        "Light + Internet"
+      ]
+    },
+    {
+      "element": "Ostrich",
+      "recipes": [
+        "Bird + Earth",
+        "Bird + Sand",
+        "Bird + Big"
+      ]
+    },
+    {
+      "element": "Owl",
+      "recipes": [
+        "Bird + Night",
+        "Bird + Wizard",
+        "Bird + Moon",
+        "Bird + Twilight"
+      ]
+    },
+    {
+      "element": "Oxygen",
+      "recipes": [
+        "Sun + Plant",
+        "Sun + Tree",
+        "Sun + Grass",
+        "Sun + Algae",
+        "Carbon dioxide + Plant",
+        "Carbon dioxide + Tree",
+        "Carbon dioxide + Grass",
+        "Carbon dioxide + Algae"
+      ]
+    },
+    {
+      "element": "Peacock",
+      "recipes": [
+        "Bird + Leaf",
+        "Bird + Rainbow",
+        "Bird + Double rainbow!"
+      ]
+    },
+    {
+      "element": "Pegasus",
+      "recipes": [
+        "Horse + Bird",
+        "Horse + Sky",
+        "Unicorn + Bird",
+        "Unicorn + Sky"
+      ]
+    },
+    {
+      "element": "Penguin",
+      "recipes": [
+        "Bird + Antarctica",
+        "Bird + Snow",
+        "Bird + Ice",
+        "Bird + Cold",
+        "Animal + Antarctica"
+      ]
+    },
+    {
+      "element": "Philosophy",
+      "recipes": [
+        "Human + Story",
+        "Human + Idea",
+        "Egg + Chicken"
+      ]
+    },
+    {
+      "element": "Pigeon",
+      "recipes": [
+        "Bird + City",
+        "Bird + Letter",
+        "Bird + Statue",
+        "Bird + Skyscraper",
+        "Bird + Village"
+      ]
+    },
+    {
+      "element": "Piggy bank",
+      "recipes": [
+        "Pig + Money",
+        "Pig + Pottery",
+        "Pig + Gold"
+      ]
+    },
+    {
+      "element": "Piranha",
+      "recipes": [
+        "Fish + Blood",
+        "Fish + Wolf"
+      ]
+    },
+    {
+      "element": "Pirate",
+      "recipes": [
+        "Sailor + Sword",
+        "Sailor + Bayonet",
+        "Sailor + Pirate ship",
+        "Sailor + Gun"
+      ]
+    },
+    {
+      "element": "Platypus",
+      "recipes": [
+        "Beaver + Duck",
+        "Beaver + Bird",
+        "Beaver + Seagull"
+      ]
+    },
+    {
+      "element": "Pollen",
+      "recipes": [
+        "Plant + Dust",
+        "Plant + Wind",
+        "Flower + Dust",
+        "Flower + Wind"
+      ]
+    },
+    {
+      "element": "Pottery",
+      "recipes": [
+        "Clay + Wheel",
+        "Clay + Tool"
+      ]
+    },
+    {
+      "element": "Reed",
+      "recipes": [
+        "Plant + Pond",
+        "Plant + Puddle",
+        "Plant + Swamp",
+        "Plant + River",
+        "Grass + Pond",
+        "Grass + Puddle",
+        "Grass + Swamp",
+        "Grass + River"
+      ]
+    },
+    {
+      "element": "Ring",
+      "recipes": [
+        "Diamond + Metal",
+        "Diamond + Steel",
+        "Diamond + Gold",
+        "Love + Gold",
+        "Love + Diamond",
+        "Love + Metal",
+        "Love + Steel"
+      ]
+    },
+    {
+      "element": "Roe",
+      "recipes": [
+        "Egg + Fish",
+        "Egg + Water",
+        "Egg + Ocean",
+        "Egg + Sea",
+        "Egg + Lake",
+        "Egg + Flying fish"
+      ]
+    },
+    {
+      "element": "Rope",
+      "recipes": [
+        "Thread + Thread",
+        "Thread + Wire",
+        "Wire + Tool",
+        "Tool + Boat",
+        "Tool + Sailboat",
+        "Tool + Pirate ship"
+      ]
+    },
+    {
+      "element": "Rose",
+      "recipes": [
+        "Love + Plant",
+        "Love + Flower",
+        "Blade + Plant",
+        "Blade + Flower"
+      ]
+    },
+    {
+      "element": "Saddle",
+      "recipes": [
+        "Horse + Leather",
+        "Horse + Tool",
+        "Horse + Fabric"
+      ]
+    },
+    {
+      "element": "Seagull",
+      "recipes": [
+        "Bird + Sea",
+        "Bird + Ocean",
+        "Bird + Beach",
+        "Pigeon + Sea",
+        "Pigeon + Ocean",
+        "Pigeon + Beach",
+        "Rat + Sea",
+        "Rat + Ocean",
+        "Rat + Beach"
+      ]
+    },
+    {
+      "element": "Seahorse",
+      "recipes": [
+        "Horse + Water",
+        "Horse + Sea",
+        "Horse + Ocean",
+        "Horse + Lake",
+        "Horse + Fish"
+      ]
+    },
+    {
+      "element": "Seasickness",
+      "recipes": [
+        "Sickness + Sea",
+        "Sickness + Ocean",
+        "Sickness + Lake",
+        "Sickness + Boat",
+        "Sickness + Sailboat",
+        "Sickness + Steamboat"
+      ]
+    },
+    {
+      "element": "Seaweed",
+      "recipes": [
+        "Plant + Sea",
+        "Plant + Ocean",
+        "Plant + Lake",
+        "Grass + Sea",
+        "Grass + Ocean"
+      ]
+    },
+    {
+      "element": "Shark",
+      "recipes": [
+        "Wolf + Sea",
+        "Wolf + Ocean",
+        "Wolf + Fish",
+        "Blood + Sea",
+        "Blood + Ocean",
+        "Blood + Fish"
+      ]
+    },
+    {
+      "element": "Sheep",
+      "recipes": [
+        "Livestock + Wool",
+        "Livestock + Hill",
+        "Livestock + Land",
+        "Livestock + Cloud",
+        "Goat + Domestication",
+        "Mountain goat + Domestication"
+      ]
+    },
+    {
+      "element": "Skeleton",
+      "recipes": [
+        "Time + Corpse",
+        "Bone + Bone",
+        "Bone + Corpse"
+      ]
+    },
+    {
+      "element": "Snowboard",
+      "recipes": [
+        "Snow + Wood",
+        "Snow + Surfer",
+        "Ice + Wood",
+        "Ice + Surfer",
+        "Surfer + Mountain",
+        "Surfer + Mountain range"
+      ]
+    },
+    {
+      "element": "Solid",
+      "recipes": [
+        "Earth + Idea",
+        "Earth + Science"
+      ]
+    },
+    {
+      "element": "Spotlight",
+      "recipes": [
+        "Light + Machine",
+        "Light + Metal",
+        "Light + Steel"
+      ]
+    },
+    {
+      "element": "Steak",
+      "recipes": [
+        "Meat + Bbq",
+        "Meat + Fire",
+        "Cow + Bbq",
+        "Cow + Fire"
+      ]
+    },
+    {
+      "element": "Stethoscope",
+      "recipes": [
+        "Doctor + Tool",
+        "Doctor + Drum",
+        "Doctor + Sound",
+        "Tool + Sound",
+        "Tool + Hospital"
+      ]
+    },
+    {
+      "element": "Story",
+      "recipes": [
+        "Human + Campfire",
+        "Human + Hero"
+      ]
+    },
+    {
+      "element": "Sunflower",
+      "recipes": [
+        "Sun + Plant",
+        "Sun + Flower"
+      ]
+    },
+    {
+      "element": "Swordfish",
+      "recipes": [
+        "Fish + Sword",
+        "Fish + Blade",
+        "Shark + Sword",
+        "Shark + Blade"
+      ]
+    },
+    {
+      "element": "Tobacco",
+      "recipes": [
+        "Plant + Fire",
+        "Plant + Smoke",
+        "Grass + Smoke"
+      ]
+    },
+    {
+      "element": "Toolbox",
+      "recipes": [
+        "Tool + Container",
+        "Tool + Safe",
+        "Tool + Box",
+        "Hammer + Container",
+        "Hammer + Box",
+        "Ruler + Container",
+        "Ruler + Box",
+        "Steel wool + Container",
+        "Steel wool + Box",
+        "Chain + Box",
+        "Chain + Container"
+      ]
+    },
+    {
+      "element": "Toucan",
+      "recipes": [
+        "Bird + Rainbow",
+        "Bird + Double rainbow!",
+        "Bird + Palm",
+        "Palm + Owl",
+        "Palm + Seagull",
+        "Palm + Pigeon"
+      ]
+    },
+    {
+      "element": "Tree",
+      "recipes": [
+        "Plant + Big",
+        "Plant + Wood",
+        "Plant + Time",
+        "Nest + Container"
+      ]
+    },
+    {
+      "element": "Umbrella",
+      "recipes": [
+        "Rain + Tool",
+        "Rain + Fabric",
+        "Storm + Tool",
+        "Storm + Fabric"
+      ]
+    },
+    {
+      "element": "Unicorn",
+      "recipes": [
+        "Horse + Legend",
+        "Horse + Story",
+        "Horse + Magic",
+        "Horse + Rainbow",
+        "Horse + Double rainbow!"
+      ]
+    },
+    {
+      "element": "Vampire",
+      "recipes": [
+        "Human + Blood",
+        "Human + Vampire",
+        "Human + Bat"
+      ]
+    },
+    {
+      "element": "Vegetable",
+      "recipes": [
+        "Farmer + Field",
+        "Farmer + Forest",
+        "Farmer + Plant",
+        "Plant + Field",
+        "Plant + Domestication"
+      ]
+    },
+    {
+      "element": "Vulture",
+      "recipes": [
+        "Corpse + Bird",
+        "Corpse + Eagle",
+        "Corpse + Owl",
+        "Corpse + Hummingbird",
+        "Corpse + Pigeon",
+        "Corpse + Penguin",
+        "Corpse + Chicken",
+        "Corpse + Duck",
+        "Desert + Bird",
+        "Desert + Eagle",
+        "Desert + Owl",
+        "Desert + Hummingbird",
+        "Desert + Pigeon",
+        "Desert + Penguin",
+        "Desert + Duck"
+      ]
+    },
+    {
+      "element": "Wand",
+      "recipes": [
+        "Wizard + Wood",
+        "Wizard + Sword",
+        "Wizard + Tool",
+        "Wizard + Pencil"
+      ]
+    },
+    {
+      "element": "Werewolf",
+      "recipes": [
+        "Human + Wolf",
+        "Human + Werewolf",
+        "Wolf + Monster"
+      ]
+    },
+    {
+      "element": "Wheel",
+      "recipes": [
+        "Motion + Tool",
+        "Motion + Stone",
+        "Motion + Metal",
+        "Motion + Steel",
+        "Tool + Water",
+        "Tool + Stream",
+        "Tool + River"
+      ]
+    },
+    {
+      "element": "Wild boar",
+      "recipes": [
+        "Pig + Animal",
+        "Pig + Forest",
+        "Pig + Hill"
+      ]
+    },
+    {
+      "element": "Windsurfer",
+      "recipes": [
+        "Wind + Surfer"
+      ]
+    },
+    {
+      "element": "Zombie",
+      "recipes": [
+        "Corpse + Life",
+        "Corpse + Story",
+        "Corpse + Bacteria",
+        "Human + Zombie",
+        "Corpse + Necromancer"
+      ]
+    }
+  ]
+}
