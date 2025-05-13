@@ -214,7 +214,8 @@ func processSearch(conn *websocket.Conn, req SearchRequest) {
 	} else if req.Algorithm == "bidirectional" {
 		if req.Mode == "shortest" {
 			// Single recipe bidirectional with updates
-			algorithms.SafeBidirectionalSingleWithUpdates(req.Target, recipeMap, tierMap, conn)
+			// algorithms.SafeBidirectionalSingleWithUpdates(req.Target, recipeMap, tierMap, conn)
+			algorithms.SafeBidirectionalMultipleWithUpdates(req.Target, recipeMap, tierMap, 1, conn)
 		} else if req.Mode == "multiple" {
 			// Multiple recipe bidirectional with updates
 			limit := 5 // Default
