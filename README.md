@@ -45,15 +45,13 @@ Pastikan anda sudah memiliki:
   cd Tubes2_BE_Ahsan-geming
 ```
 
-4. **Buatlah .env.local dan .env (jika deploy) sesuai dengan .env.example**
-
-5. **Compile program**
+4. **Compile program**
 
 ```bash
   docker build -t go-backend .
 ```
 
-6. **Jalankan program**
+5. **Jalankan program**
 
 ```bash
   docker run -p 8080:8080 go-backend
