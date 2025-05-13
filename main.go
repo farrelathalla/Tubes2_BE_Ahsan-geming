@@ -316,7 +316,11 @@ func main() {
 	http.Handle("/", fs)
 
 	// Start the server
-	port := "8080"
+	// port := "8080"
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080" // Default for local development
+	}
 	fmt.Printf("Server listening on http://localhost:%s\n", port)
 	log.Fatal(http.ListenAndServe(":"+port, nil))
 }
