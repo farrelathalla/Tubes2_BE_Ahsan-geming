@@ -32,7 +32,6 @@ var startingElements = map[string]bool{
 	"Earth": true,
 	"Fire":  true,
 	"Air":   true,
-	"Time":  true,
 }
 
 // RecipeNode represents a node in the recipe tree
@@ -105,7 +104,7 @@ func getValidRecipes(recipeMap map[string][][]string, tierMap map[string]int, el
 				ingTier = 999
 			}
 
-			if ingTier > elementTier {
+			if ingTier >= elementTier {
 				allLowerOrEqual = false
 				break
 			}
@@ -130,7 +129,7 @@ func BuildTierMap(data map[string][]struct {
 
 	for tierName, elements := range data {
 		var tierLevel int
-		if strings.HasPrefix(tierName, "Starting ") || strings.HasPrefix(tierName, "Special ") {
+		if strings.HasPrefix(tierName, "Starting ") {
 			tierLevel = 0
 		} else if strings.HasPrefix(tierName, "Tier ") {
 			_, err := fmt.Sscanf(tierName, "Tier %d", &tierLevel)
