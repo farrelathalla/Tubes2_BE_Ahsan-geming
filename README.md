@@ -10,6 +10,7 @@ Repository ini berisi **backend** untuk **Little Alchemy 2 Finder**, yang memung
 Berikut adalah struktur program tugas kecil ini :
 ```sh
 /Tubes2_BE_Ahsan-geming
+├── /doc                    # Laporan
 ├── /algorithms             # Kumpulan algoritma
 │   ├── bfs.go     
 │   ├── bidirectional.go             
