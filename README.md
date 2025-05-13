@@ -1,6 +1,8 @@
 # 🧪 Algoritma BFS dan DFS pada Little Alchemy 2
 # Tugas Besar 2 Strategi Algoritma IF2211
 
+![Desain tanpa judul (2)](https://github.com/user-attachments/assets/60895446-f17a-4e66-858a-4eca0b5ec754)
+
 ## 📌 Deskripsi  
 Repository ini berisi **backend** untuk **Little Alchemy 2 Finder**, yang memungkinkan pengguna mencari elemen menggunakan tiga algoritma pencarian: **Breadth-First Search (BFS)**, **Depth-First Search (DFS)**, dan **Bidirectional Search (BDS)**. Backend ini bertanggung jawab untuk menangani permintaan, memproses pencarian, dan mengembalikan jalur untuk pembuatan elemen.
 
@@ -43,13 +45,15 @@ Pastikan anda sudah memiliki:
   cd Tubes2_BE_Ahsan-geming
 ```
 
-4. **Compile program**
+4. **Buatlah .env.local dan .env (jika deploy) sesuai dengan .env.example**
+
+5. **Compile program**
 
 ```bash
   docker build -t go-backend .
 ```
 
-4. **Jalankan program**
+6. **Jalankan program**
 
 ```bash
   docker run -p 8080:8080 go-backend
