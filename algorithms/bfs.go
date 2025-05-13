@@ -149,34 +149,93 @@ func BuildTierMap(data map[string][]struct {
 	return tierMap
 }
 
-// Helper to build a recipe tree from a path
+// // Helper to build a recipe tree from a path
+// func buildRecipeTreeFromPath(path RecipePath, element string) *RecipeNode {
+// 	// Create node from root
+// 	node := &RecipeNode{
+// 		Element: element,
+// 		Recipes: []*RecipeNode{},
+// 	}
+
+// 	// If starting element, return node
+// 	if startingElements[element] {
+// 		return node
+// 	}
+
+// 	// Get recipe
+// 	recipe, found := path.Recipes[element]
+
+// 	// If recipe not found
+// 	if !found || len(recipe) == 0 {
+// 		return node
+// 	}
+
+// 	// Create child nodes
+// 	for _, ingredient := range recipe {
+// 		childNode := buildRecipeTreeFromPath(path, ingredient)
+// 		node.Recipes = append(node.Recipes, childNode)
+// 	}
+
+// 	return node
+// }
+// Helper to build a recipe tree from a path with cycle detection
 func buildRecipeTreeFromPath(path RecipePath, element string) *RecipeNode {
-	// Create node from root
-	node := &RecipeNode{
-		Element: element,
-		Recipes: []*RecipeNode{},
-	}
+    // Use a visited map to prevent infinite recursion
+    visited := make(map[string]bool)
+    return buildRecipeTreeFromPathSafe(path, element, visited, 0, 20) // Max depth of 20
+}
 
-	// If starting element, return node
-	if startingElements[element] {
-		return node
-	}
+// Safe version with cycle detection and depth limiting
+func buildRecipeTreeFromPathSafe(path RecipePath, element string, visited map[string]bool, depth int, maxDepth int) *RecipeNode {
+    // Check for excessive depth
+    if depth > maxDepth {
+        return &RecipeNode{
+            Element: element,
+            Recipes: []*RecipeNode{},
+        }
+    }
+    
+    // Check if we've already visited this element (cycle detection)
+    if visited[element] {
+        return &RecipeNode{
+            Element: element,
+            Recipes: []*RecipeNode{},
+        }
+    }
+    
+    // Mark as visited
+    visited[element] = true
+    defer func() {
+        // Unmark when exiting (backtrack)
+        delete(visited, element)
+    }()
+    
+    // Create node
+    node := &RecipeNode{
+        Element: element,
+        Recipes: []*RecipeNode{},
+    }
 
-	// Get recipe
-	recipe, found := path.Recipes[element]
+    // If starting element, return node
+    if startingElements[element] {
+        return node
+    }
 
-	// If recipe not found
-	if !found || len(recipe) == 0 {
-		return node
-	}
+    // Get recipe
+    recipe, found := path.Recipes[element]
 
-	// Create child nodes
-	for _, ingredient := range recipe {
-		childNode := buildRecipeTreeFromPath(path, ingredient)
-		node.Recipes = append(node.Recipes, childNode)
-	}
+    // If recipe not found
+    if !found || len(recipe) == 0 {
+        return node
+    }
 
-	return node
+    // Create child nodes
+    for _, ingredient := range recipe {
+        childNode := buildRecipeTreeFromPathSafe(path, ingredient, visited, depth+1, maxDepth)
+        node.Recipes = append(node.Recipes, childNode)
+    }
+
+    return node
 }
 
 // Helper to check if a string is in a slice
@@ -475,9 +534,34 @@ func BFSSingleWithUpdates(targetElement string, recipeMap map[string][][]string,
 // BFSMultipleWithUpdates performs BFS search for multiple recipes with WebSocket updates
 func BFSMultipleWithUpdates(targetElement string, recipeMap map[string][][]string, tierMap map[string]int, recipeLimit int, conn *websocket.Conn) interface{} {
 	// Create a WebSocket client
+	defer func() {
+        if r := recover(); r != nil {
+            fmt.Printf("BFSMultipleWithUpdates panic recovered: %v\n", r)
+            
+            // Try to send error response to client
+            client := &WebSocketClient{conn: conn}
+            client.SendUpdate(ProcessUpdate{
+                Type:     "error",
+                Element:  targetElement,
+                Path:     nil,
+                Complete: true,
+                Stats: struct {
+                    NodeCount     int           `json:"nodeCount"`
+                    StepCount     int           `json:"stepCount"`
+                    ElapsedTime   time.Duration `json:"elapsedTime"`
+                    ElapsedTimeMs int64         `json:"elapsedTimeMs"`
+                }{
+                    NodeCount:     0,
+                    StepCount:     0,
+                    ElapsedTime:   0,
+                    ElapsedTimeMs: 0,
+                },
+            })
+        }
+    }()
 	client := &WebSocketClient{conn: conn}
 	startTime := time.Now()
-	branchCount := 0
+	var branchCount int32 = 0
 	maxPathsToProcess := 1000
 	
 	// Reset global counters at the start
@@ -679,25 +763,31 @@ func BFSMultipleWithUpdates(targetElement string, recipeMap map[string][][]strin
 		wg.Add(1)
 		go func() {
 			defer wg.Done()
-
+			
+			// Add panic recovery
+			defer func() {
+				if r := recover(); r != nil {
+					fmt.Printf("Worker panic recovered: %v\n", r)
+				}
+			}()
+	
 			for {
 				select {
 				case workItem, ok := <-workChan:
 					if !ok {
 						return
 					}
-
+	
 					// Check if exceeding process limit
 					if pathsProcessed.Add(1) >= int32(maxPathsToProcess) {
 						continue
 					}
-
-					// Process path
+	
+					// Process path with error handling
 					processPathMultiple(workItem.Path, workItem.Queue, recipeMap, tierMap,
 						workChan, resultChan, &branchCount, recipeLimit)
-
+	
 				case <-ctx.Done():
-					// Context cancelled
 					return
 				}
 			}
@@ -705,19 +795,53 @@ func BFSMultipleWithUpdates(targetElement string, recipeMap map[string][][]strin
 	}
 
 	// Wait for workers to finish or context to be cancelled
-	go func() {
-        defer func() {
-            if r := recover(); r != nil {
-                fmt.Printf("Channel closing panic: %v\n", r)
-            }
-        }()
+	// go func() {
+    //     defer func() {
+    //         if r := recover(); r != nil {
+    //             fmt.Printf("Channel closing panic: %v\n", r)
+    //         }
+    //     }()
         
-        wg.Wait()
-        close(workChan)
-        close(resultChan)
-    }()
+    //     wg.Wait()
+    //     close(workChan)
+    //     close(resultChan)
+    // }()
 
-	<-ctx.Done()
+	// <-ctx.Done()
+	done := make(chan struct{})
+go func() {
+    defer close(done)
+    <-ctx.Done()
+}()
+
+<-done
+
+// Close channels safely
+go func() {
+    wg.Wait()
+    
+    // Use defer with recover to catch any panic during close
+    defer func() {
+        if r := recover(); r != nil {
+            fmt.Printf("Channel closing recovered from panic: %v\n", r)
+        }
+    }()
+    
+    // Check if channels are already closed
+    select {
+    case <-workChan:
+        // Already closed
+    default:
+        close(workChan)
+    }
+    
+    select {
+    case <-resultChan:
+        // Already closed
+    default:
+        close(resultChan)
+    }
+}()
 
 	// Ensure result doesn't exceed limit
 	resultsMutex.Lock()
@@ -747,7 +871,7 @@ func BFSMultipleWithUpdates(targetElement string, recipeMap map[string][][]strin
 			ElapsedTime:   elapsed,
 			ElapsedTimeMs: elapsed.Milliseconds(),
 		},
-	})
+	})	
 	
 	resultsMutex.Unlock()
 
@@ -847,9 +971,13 @@ func processVisualizationPath(currentPath RecipePath, queue []ElementToProcess,
 
 // Process a single path for multiple recipe search
 func processPathMultiple(currentPath RecipePath, queue []ElementToProcess,
-	recipeMap map[string][][]string, tierMap map[string]int,
-	workChan chan<- WorkItem, resultChan chan<- *RecipeNode, branchCount *int, recipeLimit int) {
-
+    recipeMap map[string][][]string, tierMap map[string]int,
+    workChan chan<- WorkItem, resultChan chan<- *RecipeNode, branchCount *int32, recipeLimit int) {
+		defer func() {
+			if r := recover(); r != nil {
+				fmt.Printf("processPathMultiple panic recovered: %v\n", r)
+			}
+		}()
 	// Track visited elements
 	visited := make(map[string]bool)
 
@@ -950,7 +1078,7 @@ func processPathMultiple(currentPath RecipePath, queue []ElementToProcess,
 			}
 
 			// Increment branch count
-			atomic.AddInt32((*int32)(unsafe.Pointer(branchCount)), 1)
+			atomic.AddInt32(branchCount, 1)
 
 			// Send branch as new work
 			select {
@@ -981,6 +1109,12 @@ func processPathMultiple(currentPath RecipePath, queue []ElementToProcess,
 	// Add completed path to results
 	if completedPath {
 		node := buildRecipeTreeFromPath(currentPath, currentPath.Elements[0])
-		resultChan <- node
+		select {
+		case resultChan <- node:
+			// Successfully sent
+		case <-time.After(100 * time.Millisecond):
+			// Channel might be full or closed, skip silently
+			return
+		}
 	}
 }
