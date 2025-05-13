@@ -29,15 +29,16 @@ Berikut instruksi instalasi dan penggunaan program
 Pastikan anda sudah memiliki:
 - **Golang 1.24 atau lebih baru**
 - **IDE atau terminal** untuk menjalankan program
+- **Docker Desktop**
 
 ### Installation
 1. **Clone repository ke dalam suatu folder**
 
 ```bash
-  https://github.com/farrelathalla/Tubes2_BE_Ahsan-geming.git
+  git clone https://github.com/farrelathalla/Tubes2_BE_Ahsan-geming.git
 ```
 
-2. **Nyalakan Docker Desktop**
+2. **Nyalakan Docker Desktop (jika menggunakan Docker)**
 
 3. **Pergi ke directory /Tubes2_BE_Ahsan-geming**
 
@@ -50,11 +51,18 @@ Pastikan anda sudah memiliki:
 ```bash
   docker build -t go-backend .
 ```
+(jika tanpa Docker maka tidak perlu dilakukan)
 
 5. **Jalankan program**
 
 ```bash
   docker run -p 8080:8080 go-backend
+```
+
+atau tanpa Docker
+
+```bash
+  go run main.go
 ```
 
 ## **📌 Cara Penggunaan**
